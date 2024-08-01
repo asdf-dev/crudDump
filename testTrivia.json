@@ -7,6 +7,6 @@
   {
     "options": ["optionB1", "optionB2", "optionB3", "optionB4"],
     "answer": "optionB1",
-    "imageUrl": "https://via.placeholder.com/150"
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/minpng.png"
   }
 ]
