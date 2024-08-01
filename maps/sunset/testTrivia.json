@@ -7,6 +7,6 @@
   {
     "options": ["optionB1", "optionB2", "optionB3", "optionB4"],
     "answer": "optionB1",
-    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/sunset/testTrivia.json"
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/sunset/minpng.png"
   }
 ]
