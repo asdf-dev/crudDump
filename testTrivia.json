@@ -1,4 +1,4 @@
-      {
+     [ {
         options: ["optionA1", "optionA2", "optionA3", "optionA4"],
         answer: "optionA1",
         imageUrl: "https://via.placeholder.com/150",
@@ -8,3 +8,4 @@
         answer: "optionB1",
         imageUrl: "https://via.placeholder.com/150",
       }
+     ]
