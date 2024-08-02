@@ -28,6 +28,6 @@
         "options": ["A window", "A halls", "A backsite", "A cobby"],
         "answer": "A window",
         "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/bind/Awindow.png"
-      },
+      }
   ]
   
