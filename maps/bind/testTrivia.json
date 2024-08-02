@@ -1,3 +1,33 @@
 [
+    {
+      "options": ["A lamp", "A conn", "A link", "A elbow"],
+      "answer": "A lamp",
+      "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/bind/Alamp.png"
+    },
+    {
+        "options": ["A link", "A lobby", "A short", "A elbow"],
+        "answer": "A link",
+        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/bind/Alink.png"
+      },
+      {
+        "options": ["A lobby", "A conn", "A halls", "A back"],
+        "answer": "A lobby",
+        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/bind/Alobby.png"
+      },
+      {
+        "options": ["A short", "A conn", "A halls", "A cobby"],
+        "answer": "A short",
+        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/bind/Ashort.png"
+      },
+      {
+        "options": ["A site", "B site"],
+        "answer": "A site",
+        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/bind/Asite.png"
+      },
+      {
+        "options": ["A window", "A halls", "A backsite", "A cobby"],
+        "answer": "A window",
+        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/bind/Awindow.png"
+      },
+  ]
   
-]
