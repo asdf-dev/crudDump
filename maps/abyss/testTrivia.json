@@ -1,0 +1,92 @@
+[
+  {
+    "options": ["Security", "Back hall", "A link", "Conn"],
+    "answer": "Security",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/security.png"
+  },
+  {
+    "options": ["A link", "Back hall", "A link", "Conn"],
+    "answer": "A link",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Alink.png"
+  },
+  {
+    "options": ["A lobby", "T Spawn", "B lobby", "CT Spawn"],
+    "answer": "A lobby",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Alobby.png"
+  },
+  {
+    "options": ["Secret", "Danger", "L path", "B conn"],
+    "answer": "Secret",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/secret.png"
+  },
+  {
+    "options": ["Top mid", "Buttom mid", "Mid nest", "Corner"],
+    "answer": "Top mid",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/midtop.png"
+  },
+  {
+    "options": ["Mid library", "Lcon Mid", "Xbox", "Top box"],
+    "answer": "Mid library",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/midLib.png"
+  },
+  {
+    "options": ["Danger", "Secret", "Hidden", "A cat"],
+    "answer": "Danger",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/danger.png"
+  },
+  {
+    "options": ["Cat", "Top mid", "Mid heaven", "Mid Door"],
+    "answer": "Cat",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/cat.png"
+  },
+  {
+    "options": ["Buttom Mid", "Lower Mid", "Mid conn", "Mid Doors"],
+    "answer": "Buttom Mid",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/buttomMid.png"
+  },
+  {
+    "options": ["B tower", "Heaven", "A Top", "A jungle"],
+    "answer": "B tower",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Btower.png"
+  },
+  {
+    "options": ["B site", "A site"],
+    "answer": "B site",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Bsite.png"
+  },
+  {
+    "options": ["B nest", "Attacker Tower", "Double box", "Stacked"],
+    "answer": "B nest",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Bnest.png"
+  },
+  {
+    "options": ["B main", "B conn", "B xbox", "B Stacked"],
+    "answer": "B main",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Bmain.png"
+  },
+  {
+    "options": ["B lobby", "B conn", "B Stairs", "T Spawn"],
+    "answer": "B lobby",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Blobby.png"
+  },
+  {
+    "options": ["B link", "B conn", "Fish", "Coffee"],
+    "answer": "B link",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Blink.png"
+  },
+  {
+    "options": ["B bend", "B conn", "B elbow", "Library"],
+    "answer": "B bend",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Bbend.png"
+  },
+  {
+    "options": ["A tower", "Heaven", "A Top", "A Server"],
+    "answer": "A tower",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Atower.png"
+  },
+  {
+    "options": ["A site", "B site"],
+    "answer": "A site",
+    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/maps/abyess/Asite.png"
+  }
+]
