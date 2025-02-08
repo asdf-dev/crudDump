@@ -1,0 +1,10 @@
+[
+    {
+        "description": "bla bla",
+        "jumpThrow": false,
+        "team": "CT",
+        "location": "1.png",
+        "aimSpot": "2.png",
+        "name": "2.png"
+    }
+]
