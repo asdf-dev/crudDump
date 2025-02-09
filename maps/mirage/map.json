@@ -1,8 +1,26 @@
 [
     {
-    "name": "navn",
-    "description": "des",
-    "team": "CT",
+    "name": "navnA",
+    "description": "descriptionA",
+    "team": "T",
+    "area": "A",
+    "jumpThrow": false,
+    "location": "url1",
+    "aimSpot": "url2"
+    },
+    {
+    "name": "navnMid",
+    "description": "descriptionMid",
+    "team": "T",
+    "area": "Mid",
+    "jumpThrow": true,
+    "location": "url1",
+    "aimSpot": "url2"
+    },
+    {
+    "name": "navnb",
+    "description": "descriptionB",
+    "team": "T",
     "area": "A",
     "jumpThrow": false,
     "location": "url1",
