@@ -5,7 +5,7 @@
     "team": "T",
     "area": "A",
     "jumpThrow": false,
-    "location": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ascent/attackerspawn.png",
+    "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ascent/attackerspawn.png",
     "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/abyss/Blink.png"
     },
     {
@@ -14,7 +14,7 @@
     "team": "T",
     "area": "Mid",
     "jumpThrow": true,
-    "location": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/bind/Asite.png",
+    "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/bind/Asite.png",
     "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/bind/Blink.png"
     },
     {
@@ -23,7 +23,7 @@
     "team": "T",
     "area": "B",
     "jumpThrow": false,
-    "location": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/bind/Bhall.png",
+    "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/bind/Bhall.png",
     "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/bind/Bgarden.png"
     }
 ]
