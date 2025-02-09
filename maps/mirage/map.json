@@ -21,7 +21,7 @@
     "name": "navnb",
     "description": "descriptionB",
     "team": "T",
-    "area": "A",
+    "area": "B",
     "jumpThrow": false,
     "location": "url1",
     "aimSpot": "url2"
