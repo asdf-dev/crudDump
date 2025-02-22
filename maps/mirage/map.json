@@ -5,8 +5,8 @@
         "team": "T",
         "area": "A",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ascent/attackerspawn.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/abyss/Blink.png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/IvyLocation.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/IvyThrow.png"
     },
     {
         "name": "Sandwich",
@@ -14,8 +14,8 @@
         "team": "T",
         "area": "A",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ascent/attackerspawn.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/abyss/Blink.png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/SandwichLocation.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/SandwichThrow.png"
     },
     {
         "name": "Center Ivy",
@@ -23,8 +23,9 @@
         "team": "T",
         "area": "Mid",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ascent/attackerspawn.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/abyss/Blink.png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/GateStand.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/GateThrow.png"
+
     },
     {
         "name": "B lower blue train",
@@ -32,8 +33,8 @@
         "team": "T",
         "area": "B",
         "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ascent/attackerspawn.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/abyss/Blink.png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/BLowerLocation.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/BLowerThrow.png"
     },
     {
         "name": "B lower bomb train",
@@ -41,7 +42,7 @@
         "team": "T",
         "area": "B",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ascent/attackerspawn.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/abyss/Blink.png"
-    },
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/BLowerSecLocation.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/BLowerSecThrow.png"
+    }
 ]
