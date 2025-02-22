@@ -1,13 +1,5 @@
 [
     {
-        "name": "Mirage",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/map.json"
-    },
-    {
-        "name": "Dust 2",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/"
-    },
-    {
         "name": "Train",
         "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/main/"
     }
