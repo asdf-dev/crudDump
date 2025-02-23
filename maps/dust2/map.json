@@ -1,11 +1,92 @@
 [
     {
-        "name": "A site Ivy",
+        "name": "Plat",
+        "description": "Throw with door",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/B_plat_10s%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/B_plat_10s%20(2).png"
+    },
+    {
+        "name": "Door",
+        "description": "Throw with Plat",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/b_door%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/b_door%20(2).png"
+    },
+    {
+        "name": "CT",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/ct%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/ct%20(1).png"
+    },
+    {
+        "name": "CT Ramp",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/ct_ramp%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/ct_ramp%20(1).png"
+    },
+    {
+        "name": "A Long corner",
         "description": "",
         "team": "T",
         "area": "A",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/IvyLocation.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/IvyThrow.png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/long_conor%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/long_conor%20(1).png"
+    },
+    {
+        "name": "Mid door",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_door%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_door%20(1).png"
+    },
+    {
+        "name": "Mid palm",
+        "description": "",
+        "team": "CT",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_palme%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_palme%20(1).png"
+    },
+    {
+        "name": "Mid palm",
+        "description": "",
+        "team": "CT",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_palme%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_palme%20(1).png"
+    },
+    {
+        "name": "Mid palm",
+        "description": "Throw with door",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/window_8s%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/window_8s%20(1).png"
+    },
+    {
+        "name": "Xbox",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/xbox%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/xbox%20(1).png"
     }
 ]
