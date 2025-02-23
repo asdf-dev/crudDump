@@ -2,5 +2,13 @@
     {
         "name": "Train",
         "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/map.json"
+    },
+    {
+        "name": "Ancient",
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/map.json"
+    },
+    {
+        "name": "Anubis",
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/anubis/map.json"
     }
 ]
