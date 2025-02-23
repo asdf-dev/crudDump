@@ -7,42 +7,5 @@
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/IvyLocation.png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/IvyThrow.png"
-    },
-    {
-        "name": "Sandwich",
-        "description": "Back of red train",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/SandwichLocation.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/SandwichThrow.png"
-    },
-    {
-        "name": "Center Ivy",
-        "description": "",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/GateStand.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/GateThrow.png"
-
-    },
-    {
-        "name": "First lower blue train",
-        "description": "Should be thrown with secound",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/BLowerLocation.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/BLowerThrow.png"
-    },
-    {
-        "name": "Secound lower bomb train",
-        "description": "Should be thrown with first",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/BLowerSecLocation.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/BLowerSecThrow.png"
     }
 ]

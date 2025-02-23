@@ -1,0 +1,11 @@
+[
+    {
+        "name": "A site Ivy",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/anubis/IvyLocation.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/anubis/IvyThrow.png"
+    }
+]
