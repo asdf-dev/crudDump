@@ -28,7 +28,7 @@
 
     },
     {
-        "name": "B lower blue train",
+        "name": "Lower blue train",
         "description": "",
         "team": "T",
         "area": "B",
@@ -37,7 +37,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/BLowerThrow.png"
     },
     {
-        "name": "B lower bomb train",
+        "name": "Lower bomb train",
         "description": "",
         "team": "T",
         "area": "B",
