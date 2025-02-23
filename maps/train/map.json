@@ -1,11 +1,101 @@
 [
     {
-        "name": "A site Ivy",
+        "name": "B conn",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/Bconn%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/Bconn%20(2).png"
+    },
+    {
+        "name": "B lower",
+        "description": "Crouch throw - throw with lower secound",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/Blower_crouch%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/Blower_crouch%20(2).png"
+    },
+    {
+        "name": "B lower secound",
+        "description": "throw with first secound",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/blowersec%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/blowersec%20(2).png"
+    },
+    {
+        "name": "A conn",
         "description": "",
         "team": "T",
         "area": "A",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/IvyLocation.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/IvyThrow.png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/conn%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/conn%20(2).png"
+    },
+    {
+        "name": "E-boks",
+        "description": "Shoot glass",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/ebox_window%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/ebox_window%20(2).png"
+    },
+    {
+        "name": "Hell",
+        "description": "stand on top",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/hell%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/hell%20(1).png"
+    },
+    {
+        "name": "Inner Ivy",
+        "description": "run throw",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/inner_Ivy_run%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/inner_Ivy_run%20(2).png"
+    },
+    {
+        "name": "Ivy conn A site",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/ivy_conn%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/ivy_conn%20(2).png"
+    },
+    {
+        "name": "Pop dog",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/redTrainPopDog%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/redTrainPopDog%20(3).png"
+    },
+    {
+        "name": "Sandwich",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/sandwich%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/sandwich%20(1).png"
+    },
+    {
+        "name": "Upper side bomb train",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/uppersideBTrain%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/uppersideBTrain%20(1).png"
     }
 ]
