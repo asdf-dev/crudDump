@@ -13,6 +13,14 @@
         "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/map.json"
     },
     {
+        "name": "Inferno",
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/map.json"
+    },
+    {
+        "name": "Mirage",
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/map.json"
+    },
+    {
         "name": "Train",
         "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/map.json"
     }

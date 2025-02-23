@@ -1,11 +1,101 @@
 [
     {
-        "name": "A site Ivy",
+        "name": "Jail",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/b%20jail%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/b%20jail%20(2).png"
+    },
+    {
+        "name": "B door",
+        "description": "can be thrown with b window",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/bDoor%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/bDoor%20(1).png"
+    },
+    {
+        "name": "B window",
+        "description": "can be thrown with door",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/b_window%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/b_window%20(2).png"
+    },
+    {
+        "name": "CT",
         "description": "",
         "team": "T",
         "area": "A",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/IvyLocation.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/IvyThrow.png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/ct%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/ct%20(2).png"
+    },
+    {
+        "name": "Lower stairs",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/lower_stairs%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/lower_stairs%20(1).png"
+    },
+    {
+        "name": "Left pillar",
+        "description": "throw with right pillar",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/pillarLeft%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/pillarLeft%20(1).png"
+    },
+    {
+        "name": "Right pillar",
+        "description": "throw with left pillar",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/pillarRight%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/pillarRight%20(1).png"
+    },
+    {
+        "name": "Short",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/short%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/short%20(2).png"
+    },
+    {
+        "name": "Short from underpass",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/short_from_under%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/short_from_under%20(1).png"
+    },
+    {
+        "name": "Stairs",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/stairs%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/stairs%20(2).png"
+    },
+    {
+        "name": "Window",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/window%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/mirage/window%20(2).png"
     }
 ]
