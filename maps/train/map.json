@@ -28,8 +28,8 @@
 
     },
     {
-        "name": "Lower blue train",
-        "description": "",
+        "name": "First lower blue train",
+        "description": "Should be thrown with secound",
         "team": "T",
         "area": "B",
         "jumpThrow": false,
@@ -37,8 +37,8 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/train/BLowerThrow.png"
     },
     {
-        "name": "Lower bomb train",
-        "description": "",
+        "name": "Secound lower bomb train",
+        "description": "Should be thrown with first",
         "team": "T",
         "area": "B",
         "jumpThrow": true,
