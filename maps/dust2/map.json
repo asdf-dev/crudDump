@@ -64,15 +64,6 @@
     },
     {
         "name": "Mid palm",
-        "description": "",
-        "team": "CT",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_palme%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_palme%20(1).png"
-    },
-    {
-        "name": "Mid palm",
         "description": "Throw with door",
         "team": "T",
         "area": "B",
