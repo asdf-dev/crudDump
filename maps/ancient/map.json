@@ -123,7 +123,7 @@
         "area": "Spawn",
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/bottom-mid-from-ct-spawn-1.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png"
     },
     {
         "name": "CT spawn 2",
@@ -132,7 +132,7 @@
         "area": "Spawn",
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/bottom-mid-from-ct-spawn-2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png"
     },
     {
         "name": "CT spawn 3",
@@ -141,7 +141,7 @@
         "area": "Spawn",
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/bottom-mid-from-ct-spawn-3.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png"
     },
     {
         "name": "CT spawn 4",
@@ -150,7 +150,7 @@
         "area": "Spawn",
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/bottom-mid-from-ct-spawn-4.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png"
     },
     {
         "name": "CT spawn 5",
@@ -159,6 +159,6 @@
         "area": "Spawn",
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/bottom-mid-from-ct-spawn-5.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png"
     }
 ]
