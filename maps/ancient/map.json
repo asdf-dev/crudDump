@@ -16,7 +16,7 @@
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/Cat%20from%20T%20Spawn%20(1).png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/Cat%20from%20T%20Spawn%20(2).png"
-    },   
+    },
     {
         "name": "Temple",
         "description": "Throw with donut",
@@ -25,7 +25,7 @@
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/a_temple_with_donut%20(2).png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/a_temple_with_donut%20(1).png"
-    },   
+    },
     {
         "name": "Cave B site",
         "description": "",
@@ -34,7 +34,7 @@
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/b_cave%20(1).png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/b_cave%20(2).png"
-    },   
+    },
     {
         "name": "B CT",
         "description": "Throw with Cave B site",
@@ -43,7 +43,7 @@
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/b_ct%20(1).png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/b_ct%20(2).png"
-    }, 
+    },
     {
         "name": "Top Mid",
         "description": "",
@@ -52,7 +52,7 @@
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/mid%20(2).png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/mid%20(1).png"
-    }, 
+    },
     {
         "name": "B top ramp",
         "description": "",
@@ -61,5 +61,23 @@
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/t_top_ramp%20(1).png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/t_top_ramp%20(2).png"
+    },
+    {
+        "name": "Spawns CT/T",
+        "description": "",
+        "team": "T",
+        "area": "Spawn",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
+    },
+    {
+        "name": "T spawn 1",
+        "description": "Running Throw",
+        "team": "T",
+        "area": "Spawn",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/top-mid-from-t-spawn-1.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
     }
 ]
