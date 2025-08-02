@@ -1,0 +1,65 @@
+[
+    {
+        "name": "A site CT",
+        "description": "Throw with donut",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/A_ct_with_donut%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/A_ct_with_donut%20(2).png"
+    },
+    {
+        "name": "Cat from T Spawn",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/Cat%20from%20T%20Spawn%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/Cat%20from%20T%20Spawn%20(2).png"
+    },   
+    {
+        "name": "Temple",
+        "description": "Throw with donut",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/a_temple_with_donut%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/a_temple_with_donut%20(1).png"
+    },   
+    {
+        "name": "Cave B site",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/b_cave%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/b_cave%20(2).png"
+    },   
+    {
+        "name": "B CT",
+        "description": "Throw with Cave B site",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/b_ct%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/b_ct%20(2).png"
+    }, 
+    {
+        "name": "Top Mid",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/mid%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/mid%20(1).png"
+    }, 
+    {
+        "name": "B top ramp",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/t_top_ramp%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/t_top_ramp%20(2).png"
+    }
+]

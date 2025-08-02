@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Coffins from Half Wall",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/Coffins%20from%20Half%20Wall%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/Coffins%20from%20Half%20Wall%20(1).png"
+    },
+    {
+        "name": "Apps to lib",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/apps_lib%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/apps_lib%20(1).png"
+    },
+    {
+        "name": "B CT",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/b_ct%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/b_ct%20(1).png"
+    },
+    {
+        "name": "Car",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/car%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/car%20(1).png"
+    },
+    {
+        "name": "Mid left side",
+        "description": "Running throw",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/left%20mid%20run%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/left%20mid%20run%20(2).png"
+    },
+    {
+        "name": "A lib",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/lib%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/lib%20(1).png"
+    },
+    {
+        "name": "Mid center",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/mid%20from%20T%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/mid%20from%20T%20(2).png"
+    },
+    {
+        "name": "Mid right",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/mid%20right%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/mid%20right%20(1).png"
+    },
+    {
+        "name": "Pit",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/pit%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/pit%20(2).png"
+    },
+    {
+        "name": "Fountain",
+        "description": "can we thrown with CT",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/springvand_b%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/springvand_b%20(2).png"
+    }
+]
