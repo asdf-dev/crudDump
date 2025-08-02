@@ -63,15 +63,6 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/t_top_ramp%20(2).png"
     },
     {
-        "name": "Spawns CT/T",
-        "description": "",
-        "team": "T",
-        "area": "Spawn",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
-    },
-    {
         "name": "T spawn 1",
         "description": "Jump W throw",
         "team": "T",
