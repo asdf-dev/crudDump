@@ -9,7 +9,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/A_ct_with_donut%20(2).png"
     },
     {
-        "name": "Cat from T Spawn",
+        "name": "Cat from Spawn",
         "description": "",
         "team": "T",
         "area": "Mid",
@@ -63,7 +63,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/ancient/t_top_ramp%20(2).png"
     },
     {
-        "name": "T spawn 1",
+        "name": "Spawn 1",
         "description": "Jump W throw",
         "team": "T",
         "area": "Spawn",
@@ -72,7 +72,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
     },
     {
-        "name": "T spawn 2",
+        "name": "Spawn 2",
         "description": "Jump W throw",
         "team": "T",
         "area": "Spawn",
@@ -81,7 +81,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
     },
     {
-        "name": "T spawn 3",
+        "name": "Spawn 3",
         "description": "Jump W throw",
         "team": "T",
         "area": "Spawn",
@@ -90,7 +90,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
     },
     {
-        "name": "T spawn 4",
+        "name": "Spawn 4",
         "description": "Jump W throw",
         "team": "T",
         "area": "Spawn",
@@ -99,7 +99,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
     },
     {
-        "name": "T spawn 5",
+        "name": "Spawn 5",
         "description": "Jump W throw",
         "team": "T",
         "area": "Spawn",
@@ -108,7 +108,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_t_spawns.png"
     },
     {
-        "name": "CT spawn 1",
+        "name": "Spawn 1",
         "description": "Jump W-walk throw",
         "team": "CT",
         "area": "Spawn",
@@ -117,7 +117,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png"
     },
     {
-        "name": "CT spawn 2",
+        "name": "Spawn 2",
         "description": "Jump W-walk throw",
         "team": "CT",
         "area": "Spawn",
@@ -126,7 +126,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png"
     },
     {
-        "name": "CT spawn 3",
+        "name": "Spawn 3",
         "description": "Jump W-walk throw",
         "team": "CT",
         "area": "Spawn",
@@ -135,7 +135,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png"
     },
     {
-        "name": "CT spawn 4",
+        "name": "Spawn 4",
         "description": "Jump W-walk throw",
         "team": "CT",
         "area": "Spawn",
@@ -144,7 +144,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/ancient_ct_spawns.png"
     },
     {
-        "name": "CT spawn 5",
+        "name": "Spawn 5",
         "description": "Jump W-walk throw",
         "team": "CT",
         "area": "Spawn",
