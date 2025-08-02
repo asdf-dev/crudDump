@@ -5,8 +5,8 @@
         "team": "T",
         "area": "B",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/B_plat_10s%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/B_plat_10s%20(2).png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/B_plat_10s%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/B_plat_10s%20(2).png"
     },
     {
         "name": "Door",
@@ -14,8 +14,8 @@
         "team": "T",
         "area": "B",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/b_door%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/b_door%20(2).png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_door%20(1).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_door%20(2).png"
     },
     {
         "name": "CT",
@@ -23,8 +23,8 @@
         "team": "T",
         "area": "Mid",
         "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/ct%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/ct%20(1).png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct%20(1).png"
     },
     {
         "name": "CT Ramp",
@@ -32,8 +32,8 @@
         "team": "T",
         "area": "A",
         "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/ct_ramp%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/ct_ramp%20(1).png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct_ramp%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct_ramp%20(1).png"
     },
     {
         "name": "A Long corner",
@@ -41,8 +41,8 @@
         "team": "T",
         "area": "A",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/long_conor%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/long_conor%20(1).png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/long_conor%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/long_conor%20(1).png"
     },
     {
         "name": "Mid door",
@@ -50,8 +50,8 @@
         "team": "T",
         "area": "Mid",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_door%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_door%20(1).png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_door%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_door%20(1).png"
     },
     {
         "name": "Mid palm",
@@ -59,8 +59,8 @@
         "team": "CT",
         "area": "Mid",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_palme%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/mid_palme%20(1).png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_palme%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_palme%20(1).png"
     },
     {
         "name": "B window",
@@ -68,8 +68,8 @@
         "team": "T",
         "area": "B",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/window_8s%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/window_8s%20(1).png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/window_8s%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/window_8s%20(1).png"
     },
     {
         "name": "Xbox",
@@ -77,7 +77,7 @@
         "team": "T",
         "area": "Mid",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/xbox%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/xbox%20(1).png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/xbox%20(2).png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/xbox%20(1).png"
     }
 ]
