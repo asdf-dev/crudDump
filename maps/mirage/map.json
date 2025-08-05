@@ -97,5 +97,14 @@
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/window%20(1).png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/window%20(2).png"
+    },
+    {
+        "name": "Spawn to Window",
+        "description": "W jump throw",
+        "team": "T",
+        "area": "Spawn",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/Tspawn.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/Tspawn.png"
     }
 ]
