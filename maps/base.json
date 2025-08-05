@@ -1,22 +1,22 @@
 [
     {
         "name": "Ancient",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/ancient/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/map.json"
     },
     {
         "name": "Dust2",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/dust2/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/map.json"
     },
     {
         "name": "Inferno",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/cs/maps/inferno/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/map.json"
     },
     {
         "name": "Mirage",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/mirage/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/map.json"
     },
     {
         "name": "Train",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/spawnSmokes/maps/train/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/map.json"
     }
 ]
