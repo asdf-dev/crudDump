@@ -1,0 +1,74 @@
+[
+    {
+        "name": "A default",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/Adefualt2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/Adefualt1.png"
+    },
+    {
+        "name": "A Truck",
+        "description": "",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/aTruck2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/aTruck1.png"
+    },
+    {
+        "name": "Heaven",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/heaven2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/heaven1.png"
+    },
+    {
+        "name": "Monster from CT",
+        "description": "",
+        "team": "CT",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/monster2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/monster1.png"
+    },
+    {
+        "name": "Heaven from monster",
+        "description": "Running throw, Crosshair on eye = jump",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/monsterHeaven2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/monsterHeaven1.png"
+    },
+    {
+        "name": "Top Con",
+        "description": "Running jump throw",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/topcon2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/topcon1.png"
+    },
+    {
+        "name": "Water From CT",
+        "description": "Running jump throw",
+        "team": "CT",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/watersmoke2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/watersmoke1.png"
+    },
+    {
+        "name": "WC from T",
+        "description": "Walking jump throw",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/wc2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/wc1.png"
+    }
+]
