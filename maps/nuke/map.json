@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Close red",
+        "description": "Throw with far red",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/closeRed2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/closeRed1.png"
+    },
+    {
+        "name": "Far red",
+        "description": "Throw with close red",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/farRed2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/farRed1.png"
+    },
+    {
+        "name": "CT to silo",
+        "description": "",
+        "team": "CT",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/CTtoSilo2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/CTtoSilo1.png"
+    },
+    {
+        "name": "Upper Door",
+        "description": "Shoot the windows",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/door2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/door1.png"
+    },
+    {
+        "name": "Heaven from silo",
+        "description": "Shoot the window",
+        "team": "T",
+        "area": "A",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/heaven2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/heaven1.png"
+    },
+    {
+        "name": "Main from yard",
+        "description": "Run throw, below wire = throw",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/mainFromTYard2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/mainFromTYard1.png"
+    },
+    {
+        "name": "Ramp right side",
+        "description": "Run throw",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": false,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/rampRight2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/rampRight1.png"
+    },
+    {
+        "name": "Garage",
+        "description": "",
+        "team": "T",
+        "area": "B",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/Tgarage2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/Tgarage1.png"
+    },
+    {
+        "name": "Top main from T",
+        "description": "",
+        "team": "T",
+        "area": "Mid",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/topMain2.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/topMain1.png"
+    }
+]

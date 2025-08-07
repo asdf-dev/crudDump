@@ -16,6 +16,10 @@
         "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/map.json"
     },
     {
+        "name": "Nuke",
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/map.json"
+    },
+    {
         "name": "Overpass",
         "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/map.json"
     },
