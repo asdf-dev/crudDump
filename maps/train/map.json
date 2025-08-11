@@ -99,30 +99,12 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/uppersideBTrain%20(1).png"
     },
     {
-        "name": "Spawn 2",
+        "name": "T Spawn",
         "description": "",
         "team": "T",
         "area": "Spawn",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/t-spawn-2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/Tspawns.png"
-    },
-    {
-        "name": "Spawn 3",
-        "description": "",
-        "team": "T",
-        "area": "Spawn",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/t-spawn-3.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/Tspawns.png"
-    },
-    {
-        "name": "Spawn 4",
-        "description": "",
-        "team": "T",
-        "area": "Spawn",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/t-spawn-4.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/Tspawns.png"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/t_train_spawn.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/t_train_spawn.png"
     }
 ]
