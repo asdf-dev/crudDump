@@ -72,12 +72,21 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_ancient_spawn.png"
     },
     {
-        "name": "CT Spawn",
-        "description": "",
+        "name": "CT Spawn to B doors",
+        "description": "Running jump throw",
         "team": "CT",
         "area": "Spawn",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_ancient_spawn.png",
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_spawn_bdoors.png",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_ancient_spawn.png"
+    },
+    {
+        "name": "CT Spawn elbow",
+        "description": "shift walk jump throw",
+        "team": "CT",
+        "area": "Spawn",
+        "jumpThrow": true,
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_spawn_elbow.png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_ancient_spawn.png"
     }
 ]
