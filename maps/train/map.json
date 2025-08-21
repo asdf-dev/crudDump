@@ -99,12 +99,12 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/uppersideBTrain%20(1).png"
     },
     {
-        "name": "T Spawn",
+        "name": "Sandwich",
         "description": "",
         "team": "T",
         "area": "Spawn",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/t_train_spawn.png",
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/t_spawn_throw.png",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/t_train_spawn.png"
     }
 ]
