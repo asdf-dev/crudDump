@@ -1,6 +1,6 @@
 [
     {
-        "name": "B conn",
+        "name": "Conn",
         "description": "",
         "team": "T",
         "area": "B",
@@ -9,7 +9,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/Bconn%20(2).png"
     },
     {
-        "name": "B lower",
+        "name": "Lower",
         "description": "Crouch throw - throw with lower secound",
         "team": "T",
         "area": "B",
@@ -18,7 +18,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/Blower_crouch%20(2).png"
     },
     {
-        "name": "B lower secound",
+        "name": "Lower secound",
         "description": "throw with first secound",
         "team": "T",
         "area": "B",
@@ -27,7 +27,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/blowersec%20(2).png"
     },
     {
-        "name": "A conn",
+        "name": "Cam",
         "description": "",
         "team": "T",
         "area": "A",

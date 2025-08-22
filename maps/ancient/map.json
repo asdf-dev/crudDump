@@ -54,7 +54,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid%20(1).png"
     },
     {
-        "name": "B top ramp",
+        "name": "Top ramp",
         "description": "",
         "team": "T",
         "area": "B",
@@ -72,7 +72,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_ancient_spawn.png"
     },
     {
-        "name": "CT Spawn to B doors",
+        "name": "B doors",
         "description": "Running jump throw",
         "team": "CT",
         "area": "Spawn",
@@ -81,7 +81,7 @@
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_ancient_spawn.png"
     },
     {
-        "name": "CT Spawn elbow",
+        "name": "Elbow",
         "description": "shift walk jump throw",
         "team": "CT",
         "area": "Spawn",
