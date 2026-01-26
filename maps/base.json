@@ -4,6 +4,10 @@
         "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/map.json"
     },
     {
+        "name": "Anubis",
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/map.json"
+    },
+    {
         "name": "Dust2",
         "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/map.json"
     },
