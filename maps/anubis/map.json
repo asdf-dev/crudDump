@@ -50,8 +50,8 @@
         "team": "T",
         "area": "B",
         "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins1.jpg",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins2.jpg"
+        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins2.jpg",
+        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins1.jpg"
     },
     {
         "name": "CT",
