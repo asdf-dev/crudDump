@@ -22,9 +22,5 @@
     {
         "name": "Overpass",
         "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/map.json"
-    },
-    {
-        "name": "Train",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/train/map.json"
     }
 ]
