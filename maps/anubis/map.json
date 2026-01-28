@@ -12,7 +12,7 @@
         "name": "CT to MID",
         "description": "",
         "team": "CT",
-        "area": "MID",
+        "area": "Mid",
         "jumpThrow": true,
         "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID2.jpg",
         "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID1.jpg"
