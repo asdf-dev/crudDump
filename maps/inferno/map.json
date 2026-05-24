@@ -4,6 +4,7 @@
         "name": "Inferno",
         "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/de_inferno_radar.png",
         "ctSpawn": {
+            "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/ct_inferno_spawn.png",
             "x": 89.453125,
             "y": 35.15625
         },
