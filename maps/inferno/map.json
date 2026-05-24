@@ -6,7 +6,53 @@
         "ctSpawn": {
             "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/ct_inferno_spawn.png",
             "x": 89.453125,
-            "y": 35.15625
+            "y": 35.15625,
+            "squares": [
+                {
+                    "x": 39.36,
+                    "y": 76.27,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/CT/1.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 55.08,
+                    "y": 81.7,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/CT/2.jpg",
+                    "comment": "W jumpthrow",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 67.29,
+                    "y": 70.15,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/CT/3.jpg",
+                    "comment": "W jumpthrow"
+                },
+                {
+                    "x": 52.54,
+                    "y": 49.68,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/CT/4.jpg",
+                    "comment": "W jumpthrow",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 33.59,
+                    "y": 35.86,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/CT/5.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 42.97,
+                    "y": 14.34,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/CT/6.jpg",
+                    "jumpthrow": true
+                }
+            ]
         },
         "tSpawn": {
             "x": 9.66796875,
