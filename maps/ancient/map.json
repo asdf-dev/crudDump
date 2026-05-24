@@ -5,6 +5,8 @@
         "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/de_ancient_radar.png",
         "ctSpawn": {
             "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_ancient_spawn.png",
+            "x": 50.78125,
+            "y": 12.01171875,
             "squares": [
                 {
                     "x": 22.46,
@@ -49,6 +51,8 @@
             ]
         },
         "tSpawn": {
+            "x": 48.2421875,
+            "y": 87.109375,
             "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_ancient_spawn.png",
             "squares": [
                 {

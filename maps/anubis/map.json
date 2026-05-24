@@ -8,6 +8,8 @@
             "y": 22.265625
         },
         "tSpawn": {
+            "x": 48.4375,
+            "y": 90.8203125,
             "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/t_anubis_spawn.png",
             "squares": [
                 {

@@ -10,7 +10,47 @@
         "tSpawn": {
             "x": 87.79296875,
             "y": 36.23046875,
-            "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mirageTspawn.png"
+            "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mirageTspawn.png",
+            "squares": {
+                "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mirageTspawn.png",
+                "squares": [
+                    {
+                        "x": 81.54,
+                        "y": 79.45,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/1.jpg",
+                        "jumpthrow": true
+                    },
+                    {
+                        "x": 14.16,
+                        "y": 79.8,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/2.jpg",
+                        "jumpthrow": true
+                    },
+                    {
+                        "x": 71.78,
+                        "y": 54.77,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/3.jpg",
+                        "jumpthrow": true
+                    },
+                    {
+                        "x": 55.47,
+                        "y": 56.5,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/4.jpg",
+                        "jumpthrow": true
+                    },
+                    {
+                        "x": 39.26,
+                        "y": 56.5,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/5.jpg",
+                        "jumpthrow": true
+                    }
+                ]
+            }
         },
         "popLocations": [
             {
