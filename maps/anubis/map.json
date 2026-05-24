@@ -9,8 +9,85 @@
         },
         "tSpawn": {
             "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/t_anubis_spawn.png",
-            "x": 48.4375,
-            "y": 90.8203125
+            "squares": [
+                {
+                    "x": 28.52,
+                    "y": 33.26,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/1.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 39.55,
+                    "y": 25.54,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/2.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 58.59,
+                    "y": 14.92,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/3.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 74.32,
+                    "y": 15.09,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/4.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 21.19,
+                    "y": 54,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/5.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 43.75,
+                    "y": 52.63,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/6.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 53.13,
+                    "y": 38.4,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/7.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 66.31,
+                    "y": 52.8,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/8.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 76.17,
+                    "y": 39.09,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/9.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 80.18,
+                    "y": 70.12,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/10.jpg",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 19.82,
+                    "y": 86.23,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/T/11.jpg",
+                    "jumpthrow": true
+                }
+            ]
         },
         "popLocations": [
             {
