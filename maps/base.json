@@ -1,30 +1,30 @@
 [
     {
         "name": "Ancient",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/ancient/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/map.json"
     },
     {
         "name": "Anubis",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/anubis/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/map.json"
     },
     {
         "name": "Dust2",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/dust2/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/map.json"
     },
     {
         "name": "Inferno",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/inferno/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/map.json"
     },
     {
         "name": "Mirage",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/mirage/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/map.json"
     },
     {
         "name": "Nuke",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/nuke/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/map.json"
     },
     {
         "name": "Overpass",
-        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/overpass/map.json"
+        "url": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/map.json"
     }
 ]

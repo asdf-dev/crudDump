@@ -2,7 +2,7 @@
     {
         "uuid": "de_anubis",
         "name": "Anubis",
-        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/anubis/de_anubis_radar.png",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/de_anubis_radar.png",
         "ctSpawn": {
             "x": 42.1875,
             "y": 22.265625

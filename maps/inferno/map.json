@@ -2,7 +2,7 @@
     {
         "uuid": "de_inferno",
         "name": "Inferno",
-        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/inferno/de_inferno_radar.png",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/de_inferno_radar.png",
         "ctSpawn": {
             "x": 89.453125,
             "y": 35.15625

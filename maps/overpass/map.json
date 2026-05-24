@@ -2,7 +2,7 @@
     {
         "uuid": "de_overpass",
         "name": "Overpass",
-        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/overpass/de_overpass_radar.png",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/de_overpass_radar.png",
         "ctSpawn": {
             "x": 48.046875,
             "y": 20.41015625

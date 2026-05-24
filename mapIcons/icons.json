@@ -1,42 +1,42 @@
 [
     {
         "name": "de_ancient",
-        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/mapIcons/de_ancient.png",
-        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/ancient/map.json"
+        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/mapIcons/de_ancient.png",
+        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/map.json"
     },
     {
         "name": "de_anubis",
-        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/mapIcons/de_anubis.png",
-        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/anubis/map.json"
+        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/mapIcons/de_anubis.png",
+        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/map.json"
     },
     {
         "name": "de_cache",
-        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/mapIcons/de_cache.png",
-        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/cache/map.json"
+        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/mapIcons/de_cache.png",
+        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/map.json"
     },
     {
         "name": "de_dust2",
-        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/mapIcons/de_dust2.png",
-        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/dust2/map.json"
+        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/mapIcons/de_dust2.png",
+        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/map.json"
     },
     {
         "name": "de_inferno",
-        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/mapIcons/de_inferno.png",
-        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/inferno/map.json"
+        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/mapIcons/de_inferno.png",
+        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/map.json"
     },
     {
         "name": "de_mirage",
-        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/mapIcons/de_mirage.png",
-        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/mirage/map.json"
+        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/mapIcons/de_mirage.png",
+        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/map.json"
     },
     {
         "name": "de_nuke",
-        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/mapIcons/de_nuke.png",
-        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/nuke/map.json"
+        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/mapIcons/de_nuke.png",
+        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/map.json"
     },
     {
         "name": "de_overpass",
-        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/mapIcons/de_overpass.png",
-        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/overpass/map.json"
+        "icon": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/mapIcons/de_overpass.png",
+        "mapUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/overpass/map.json"
     }
 ]

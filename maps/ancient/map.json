@@ -2,7 +2,7 @@
     {
         "uuid": "de_ancient",
         "name": "Ancient",
-        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/ancient/de_ancient_radar.png",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/de_ancient_radar.png",
         "ctSpawn": {
             "x": 50.78125,
             "y": 12.01171875

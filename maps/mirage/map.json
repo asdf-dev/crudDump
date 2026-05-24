@@ -2,7 +2,7 @@
     {
         "uuid": "de_mirage",
         "name": "Mirage",
-        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/mirage/de_mirage_radar.png",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/de_mirage_radar.png",
         "ctSpawn": {
             "x": 30.2734375,
             "y": 70.21484375

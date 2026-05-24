@@ -2,7 +2,7 @@
     {
         "uuid": "de_cache",
         "name": "Cache",
-        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/cache/de_cache_radar.png",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/de_cache_radar.png",
         "ctSpawn": {
             "x": 8.3984375,
             "y": 44.140625

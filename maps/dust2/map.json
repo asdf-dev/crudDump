@@ -2,7 +2,7 @@
     {
         "uuid": "de_dust2",
         "name": "Dust2",
-        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/dust2/de_dust2_radar.png",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/de_dust2_radar.png",
         "ctSpawn": {
             "x": 61.1328125,
             "y": 20.5078125
