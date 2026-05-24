@@ -11,7 +11,16 @@
             "x": 87.79296875,
             "y": 36.23046875,
             "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mirageTspawn.png",
-            "squares": []
+            "squares": [
+                {
+                    "x": 31.84,
+                    "y": 32.16,
+                    "size": 7,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/T_con_1.jpg",
+                    "comment": "some comment",
+                    "jumpthrow": true
+                }
+            ]
         },
         "popLocations": [
             {
