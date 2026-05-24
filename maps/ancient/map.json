@@ -5,13 +5,93 @@
         "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/de_ancient_radar.png",
         "ctSpawn": {
             "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_ancient_spawn.png",
-            "x": 50.78125,
-            "y": 12.01171875
+            "squares": [
+                {
+                    "x": 22.46,
+                    "y": 44.06,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct/1.jpg",
+                    "comment": "Shift walk throw",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 33.5,
+                    "y": 55.6,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct/2.jpg",
+                    "comment": "Shift walk",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 49.32,
+                    "y": 54.03,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct/3.jpg",
+                    "comment": "Shift walk",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 66.5,
+                    "y": 52.8,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct/4.jpg",
+                    "comment": "Shift walk",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 77.54,
+                    "y": 44.76,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct/5.jpg",
+                    "comment": "Shift walk",
+                    "jumpthrow": true
+                }
+            ]
         },
         "tSpawn": {
             "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_ancient_spawn.png",
-            "x": 48.2421875,
-            "y": 87.109375
+            "squares": [
+                {
+                    "x": 33.79,
+                    "y": 36.87,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/T/1.jpg",
+                    "comment": "W throw",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 64.55,
+                    "y": 34.95,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/T/2.jpg",
+                    "comment": "W throw",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 18.16,
+                    "y": 63.44,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/T/3.jpg",
+                    "comment": "w Throw",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 50.59,
+                    "y": 60.81,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/T/4.jpg",
+                    "comment": "W throw",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 81.35,
+                    "y": 60.46,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/T/5.jpg",
+                    "comment": "W throw",
+                    "jumpthrow": true
+                }
+            ]
         },
         "popLocations": [
             {
