@@ -1,92 +1,150 @@
 [
     {
-        "name": "A site CT",
-        "description": "Throw with donut",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/A_ct_with_donut%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/A_ct_with_donut%20(2).png"
-    },
-    {
-        "name": "Cat from Spawn",
-        "description": "",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/Cat%20from%20T%20Spawn%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/Cat%20from%20T%20Spawn%20(2).png"
-    },
-    {
-        "name": "Temple",
-        "description": "Throw with donut",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/a_temple_with_donut%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/a_temple_with_donut%20(1).png"
-    },
-    {
-        "name": "Cave B site",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_cave%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_cave%20(2).png"
-    },
-    {
-        "name": "B CT",
-        "description": "Throw with Cave B site",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_ct%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_ct%20(2).png"
-    },
-    {
-        "name": "Top Mid",
-        "description": "",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid%20(1).png"
-    },
-    {
-        "name": "Top ramp",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_top_ramp%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_top_ramp%20(2).png"
-    },
-    {
-        "name": "T spawn",
-        "description": "",
-        "team": "T",
-        "area": "Spawn",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_ancient_spawn.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_ancient_spawn.png"
-    },
-    {
-        "name": "B doors",
-        "description": "Running jump throw",
-        "team": "CT",
-        "area": "Spawn",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_spawn_bdoors.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_ancient_spawn.png"
-    },
-    {
-        "name": "Elbow",
-        "description": "shift walk jump throw",
-        "team": "CT",
-        "area": "Spawn",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_spawn_elbow.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/ct_ancient_spawn.png"
+        "uuid": "de_ancient",
+        "name": "Ancient",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/ancient/de_ancient_radar.png",
+        "ctSpawn": {
+            "x": 50.78125,
+            "y": 12.01171875
+        },
+        "tSpawn": {
+            "x": 48.2421875,
+            "y": 87.109375
+        },
+        "popLocations": [
+            {
+                "uuid": "5a546cb9-64fb-42cb-a360-43ad80d10b47",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 19.82421875,
+                    "y": 57.71484375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/A_ct_with_donut%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/A_ct_with_donut%20(2).png",
+                    "mapLocation": {
+                        "x": 30.859375,
+                        "y": 32.32421875
+                    }
+                }
+            },
+            {
+                "uuid": "948a0281-3e03-4300-b3e4-3db46c1e1dc4",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 54.296875,
+                    "y": 57.03125
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/Cat%20from%20T%20Spawn%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/Cat%20from%20T%20Spawn%20(2).png",
+                    "mapLocation": {
+                        "x": 50.5859375,
+                        "y": 82.421875
+                    }
+                }
+            },
+            {
+                "uuid": "a96c4386-ed34-4136-8eec-c7f70e00b0eb",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 25.68359375,
+                    "y": 20.01953125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/a_temple_with_donut%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/a_temple_with_donut%20(1).png",
+                    "mapLocation": {
+                        "x": 20.1171875,
+                        "y": 57.421875
+                    }
+                }
+            },
+            {
+                "uuid": "f62c8dfd-16d6-4030-bb87-b6758a6cb91c",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 70.3125,
+                    "y": 38.37890625
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_cave%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_cave%20(2).png",
+                    "mapLocation": {
+                        "x": 81.73828125,
+                        "y": 71.38671875
+                    }
+                }
+            },
+            {
+                "uuid": "4133d8f5-ef89-44b6-8c0f-b167a88e2506",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 70.80078125,
+                    "y": 34.47265625
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_ct%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_ct%20(2).png",
+                    "mapLocation": {
+                        "x": 81.73828125,
+                        "y": 71.875
+                    }
+                }
+            },
+            {
+                "uuid": "5d3c4de1-ee26-448a-9dea-df5aa5919fb8",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 47.65625,
+                    "y": 38.0859375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid%20(1).png",
+                    "mapLocation": {
+                        "x": 45.3125,
+                        "y": 81.8359375
+                    }
+                }
+            },
+            {
+                "uuid": "0e74427b-914c-41fe-83bb-e3021be2f905",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 82.03125,
+                    "y": 47.94921875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_top_ramp%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/t_top_ramp%20(2).png",
+                    "mapLocation": {
+                        "x": 78.80859375,
+                        "y": 60.15625
+                    }
+                }
+            }
+        ]
     }
 ]

@@ -1,0 +1,245 @@
+[
+    {
+        "uuid": "de_cache",
+        "name": "Cache",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/cache/de_cache_radar.png",
+        "ctSpawn": {
+            "x": 8.3984375,
+            "y": 44.140625
+        },
+        "tSpawn": {
+            "x": 88.8671875,
+            "y": 58.3984375
+        },
+        "popLocations": [
+            {
+                "uuid": "49959639-b1a9-4900-ac0e-a795545b451a",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 39.94140625,
+                    "y": 68.06640625
+                },
+                "description": "Running Throw - Throw at lamp level",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/T_B_sitedoor_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/T_B_sitedoor_2.jpg",
+                    "mapLocation": {
+                        "x": 56.73828125,
+                        "y": 68.84765625
+                    }
+                }
+            },
+            {
+                "uuid": "1618bd8b-60b8-4cdf-9740-18b181dd77dc",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 29.58984375,
+                    "y": 57.71484375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/T_con_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/T_con_2.jpg",
+                    "mapLocation": {
+                        "x": 79.78515625,
+                        "y": 58.88671875
+                    }
+                }
+            },
+            {
+                "uuid": "94b584d0-2397-45ec-b2f8-b622f472523d",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 24.31640625,
+                    "y": 73.14453125
+                },
+                "description": "Right and left click",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/T_tree_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/T_tree_2.jpg",
+                    "mapLocation": {
+                        "x": 46.77734375,
+                        "y": 83.88671875
+                    }
+                }
+            },
+            {
+                "uuid": "734aa54b-5c56-4570-bffb-9339d0bcbbd3",
+                "nadeType": "Smoke",
+                "team": "CT",
+                "location": {
+                    "x": 42.578125,
+                    "y": 70.99609375
+                },
+                "description": "Running Throw",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_b_main_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_b_main_2.jpg",
+                    "mapLocation": {
+                        "x": 29.1015625,
+                        "y": 70.60546875
+                    }
+                }
+            },
+            {
+                "uuid": "e9d8265e-7ff2-446d-8a1d-33776b6f4b5f",
+                "nadeType": "Smoke",
+                "team": "CT",
+                "location": {
+                    "x": 45.3125,
+                    "y": 27.9296875
+                },
+                "description": "Running jump throw let go in red",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_bus_amain_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_bus_amain_2.jpg",
+                    "mapLocation": {
+                        "x": 4.4921875,
+                        "y": 62.20703125
+                    }
+                }
+            },
+            {
+                "uuid": "5b610b82-21b5-4b60-a160-77a380fbc83c",
+                "nadeType": "Smoke",
+                "team": "CT",
+                "location": {
+                    "x": 51.66015625,
+                    "y": 53.02734375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_con_tmid_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_con_tmid_2.jpg",
+                    "mapLocation": {
+                        "x": 27.63671875,
+                        "y": 58.69140625
+                    }
+                }
+            },
+            {
+                "uuid": "e4e6236d-47d6-4782-9100-328ab8909f14",
+                "nadeType": "Smoke",
+                "team": "CT",
+                "location": {
+                    "x": 45.3125,
+                    "y": 27.9296875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_quad_amain_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_quad_amain_2.jpg",
+                    "mapLocation": {
+                        "x": 28.3203125,
+                        "y": 17.7734375
+                    }
+                }
+            },
+            {
+                "uuid": "fb07ecbc-2a6a-4831-a749-c5a1298abe7d",
+                "nadeType": "Smoke",
+                "team": "CT",
+                "location": {
+                    "x": 45.3125,
+                    "y": 27.9296875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_truck_amain_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/ct_truck_amain_2.jpg",
+                    "mapLocation": {
+                        "x": 18.75,
+                        "y": 38.96484375
+                    }
+                }
+            },
+            {
+                "uuid": "b4980195-6a29-4384-9682-98f05f1e7a9a",
+                "nadeType": "Smoke",
+                "team": "CT",
+                "location": {
+                    "x": 28.90625,
+                    "y": 70.703125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/T_tree_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/heaven_2.jpg",
+                    "mapLocation": {
+                        "x": 46.6796875,
+                        "y": 83.7890625
+                    }
+                }
+            },
+            {
+                "uuid": "31d1b8b8-7e78-4367-ba0d-add152bc2430",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 36.03515625,
+                    "y": 31.0546875
+                },
+                "description": "Running throw",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/t_amin_redbox_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/t_amin_redbox_2.jpg",
+                    "mapLocation": {
+                        "x": 47.8515625,
+                        "y": 32.6171875
+                    }
+                }
+            },
+            {
+                "uuid": "68610a9e-b37e-43fa-966a-7e0e07d103ef",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 38.76953125,
+                    "y": 51.5625
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/t_mid_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/t_mid_2.jpg",
+                    "mapLocation": {
+                        "x": 66.40625,
+                        "y": 54.00390625
+                    }
+                }
+            },
+            {
+                "uuid": "bafb9cf0-d950-4747-957d-e9ce14863bf8",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 36.03515625,
+                    "y": 31.0546875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/t_redbox_1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/cache/t_redbox_2.jpg",
+                    "mapLocation": {
+                        "x": 58.984375,
+                        "y": 29.78515625
+                    }
+                }
+            }
+        ]
+    }
+]

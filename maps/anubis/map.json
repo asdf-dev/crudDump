@@ -1,83 +1,150 @@
 [
     {
-        "name": "B Door",
-        "description": "",
-        "team": "CT",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTBDoor2.jpg",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTBDoor1.jpg"
-    },
-    {
-        "name": "CT to MID",
-        "description": "",
-        "team": "CT",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID2.jpg",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID1.jpg"
-    },
-    {
-        "name": "Smokes A E-Box",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAEboks2.jpg",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAEboks1.jpg"
-    },
-    {
-        "name": "A heaven",
-        "description": "",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAHeaven2.jpg",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAHeaven1.jpg"
-    },
-    {
-        "name": "A platform",
-        "description": "",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAPlatform2.jpg",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAPlatform1.jpg"
-    },
-    {
-        "name": "Ruins",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins2.jpg",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins1.jpg"
-    },
-    {
-        "name": "CT",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBCT2.jpg",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBCT1.jpg"
-    },
-    {
-        "name": "Platform",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBPlat2.jpg",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBPlat1.jpg"
-    },
-    {
-        "name": "Tspawn",
-        "description": "",
-        "team": "T",
-        "area": "Spawn",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TspawnInstantMid1.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TspawnInstantMid1.png"
+        "uuid": "de_anubis",
+        "name": "Anubis",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/anubis/de_anubis_radar.png",
+        "ctSpawn": {
+            "x": 42.1875,
+            "y": 22.265625
+        },
+        "tSpawn": {
+            "x": 48.4375,
+            "y": 90.8203125
+        },
+        "popLocations": [
+            {
+                "uuid": "39ef0dd0-b2ae-4fca-937d-852dd36ab91a",
+                "nadeType": "Smoke",
+                "team": "CT",
+                "location": {
+                    "x": 50.5859375,
+                    "y": 62.6953125
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID2.jpg",
+                    "mapLocation": {
+                        "x": 45.60546875,
+                        "y": 17.96875
+                    }
+                }
+            },
+            {
+                "uuid": "84decbdc-50fa-4679-b48f-d74619be0dff",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 38.8671875,
+                    "y": 55.859375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAEboks1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAEboks2.jpg",
+                    "mapLocation": {
+                        "x": 33.59375,
+                        "y": 64.2578125
+                    }
+                }
+            },
+            {
+                "uuid": "41ab2f63-0b81-48cd-af2d-f009f2a25adf",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 71.09375,
+                    "y": 19.43359375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAHeaven1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAHeaven2.jpg",
+                    "mapLocation": {
+                        "x": 73.92578125,
+                        "y": 50.48828125
+                    }
+                }
+            },
+            {
+                "uuid": "9918979d-c946-4670-a59d-3fb3655b37c8",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 69.53125,
+                    "y": 32.51953125
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAPlatform1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAPlatform2.jpg",
+                    "mapLocation": {
+                        "x": 73.92578125,
+                        "y": 50.68359375
+                    }
+                }
+            },
+            {
+                "uuid": "fbd9c5ec-455e-4c71-9d2a-97455e75c700",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 35.546875,
+                    "y": 41.2109375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins2.jpg",
+                    "mapLocation": {
+                        "x": 29.19921875,
+                        "y": 68.5546875
+                    }
+                }
+            },
+            {
+                "uuid": "bde47c41-d9e3-4924-9ce1-7579b77b452e",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 29.39453125,
+                    "y": 41.796875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBCT1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBCT2.jpg",
+                    "mapLocation": {
+                        "x": 29.296875,
+                        "y": 68.84765625
+                    }
+                }
+            },
+            {
+                "uuid": "6be71a25-05b5-4031-b137-2894039a5f0d",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 37.79296875,
+                    "y": 50.48828125
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBPlat1.jpg",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBPlat2.jpg",
+                    "mapLocation": {
+                        "x": 33.30078125,
+                        "y": 64.453125
+                    }
+                }
+            }
+        ]
     }
 ]

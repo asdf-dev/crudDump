@@ -1,92 +1,207 @@
 [
     {
-        "name": "Coffins from Half Wall",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/Coffins%20from%20Half%20Wall%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/Coffins%20from%20Half%20Wall%20(1).png"
-    },
-    {
-        "name": "Apps to lib",
-        "description": "",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/apps_lib%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/apps_lib%20(1).png"
-    },
-    {
-        "name": "B CT",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/b_ct%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/b_ct%20(1).png"
-    },
-    {
-        "name": "Car",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/car%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/car%20(1).png"
-    },
-    {
-        "name": "Mid left side",
-        "description": "Running throw",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/left%20mid%20run%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/left%20mid%20run%20(2).png"
-    },
-    {
-        "name": "A lib",
-        "description": "",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/lib%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/lib%20(1).png"
-    },
-    {
-        "name": "Mid center",
-        "description": "",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/mid%20from%20T%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/mid%20from%20T%20(2).png"
-    },
-    {
-        "name": "Mid right",
-        "description": "",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/mid%20right%20(2).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/mid%20right%20(1).png"
-    },
-    {
-        "name": "Pit",
-        "description": "",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/pit%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/pit%20(2).png"
-    },
-    {
-        "name": "Fountain",
-        "description": "can we thrown with CT",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/springvand_b%20(1).png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/springvand_b%20(2).png"
+        "uuid": "de_inferno",
+        "name": "Inferno",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/inferno/de_inferno_radar.png",
+        "ctSpawn": {
+            "x": 89.453125,
+            "y": 35.15625
+        },
+        "tSpawn": {
+            "x": 9.66796875,
+            "y": 67.3828125
+        },
+        "popLocations": [
+            {
+                "uuid": "5b6f55b8-ed93-4a73-8107-79d84b7090bd",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 50.48828125,
+                    "y": 12.59765625
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/Coffins%20from%20Half%20Wall%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/Coffins%20from%20Half%20Wall%20(1).png",
+                    "mapLocation": {
+                        "x": 50.78125,
+                        "y": 40.91796875
+                    }
+                }
+            },
+            {
+                "uuid": "f7ebc28c-1244-442b-8f93-8d8321bef196",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 87.109375,
+                    "y": 59.9609375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/apps_lib%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/apps_lib%20(1).png",
+                    "mapLocation": {
+                        "x": 78.22265625,
+                        "y": 84.375
+                    }
+                }
+            },
+            {
+                "uuid": "253a4d79-f6f5-4acb-bb02-53d48094b147",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 60.7421875,
+                    "y": 22.8515625
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/b_ct%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/b_ct%20(1).png",
+                    "mapLocation": {
+                        "x": 44.04296875,
+                        "y": 45.1171875
+                    }
+                }
+            },
+            {
+                "uuid": "3fe88d70-ad34-4914-81aa-ee01563ad946",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 53.02734375,
+                    "y": 35.44921875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/car%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/car%20(1).png",
+                    "mapLocation": {
+                        "x": 29.4921875,
+                        "y": 67.3828125
+                    }
+                }
+            },
+            {
+                "uuid": "1acc6d5c-8003-42ba-a961-cacdf214fe19",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 65.52734375,
+                    "y": 66.89453125
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/left%20mid%20run%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/left%20mid%20run%20(2).png",
+                    "mapLocation": {
+                        "x": 24.4140625,
+                        "y": 64.6484375
+                    }
+                }
+            },
+            {
+                "uuid": "1238c439-ab1c-4bda-9fe0-96c5cd6602ee",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 89.453125,
+                    "y": 54.98046875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/lib%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/lib%20(1).png",
+                    "mapLocation": {
+                        "x": 57.8125,
+                        "y": 82.8125
+                    }
+                }
+            },
+            {
+                "uuid": "21fa9883-5429-4e16-a078-f9f737c69a7b",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 67.7734375,
+                    "y": 67.08984375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/mid%20from%20T%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/mid%20from%20T%20(2).png",
+                    "mapLocation": {
+                        "x": 28.90625,
+                        "y": 65.52734375
+                    }
+                }
+            },
+            {
+                "uuid": "ed6b641f-462b-483a-8fc7-b7e3464b44ac",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 69.53125,
+                    "y": 70.1171875
+                },
+                "description": "Running throw",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/mid%20right%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/mid%20right%20(1).png",
+                    "mapLocation": {
+                        "x": 55.76171875,
+                        "y": 70.21484375
+                    }
+                }
+            },
+            {
+                "uuid": "2bc4daf7-8061-451a-b083-830f8f1d57f2",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 86.62109375,
+                    "y": 76.953125
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/pit%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/pit%20(2).png",
+                    "mapLocation": {
+                        "x": 46.875,
+                        "y": 81.34765625
+                    }
+                }
+            },
+            {
+                "uuid": "02476c8a-5b12-4444-a419-7e7d4733913b",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 51.07421875,
+                    "y": 21.97265625
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/springvand_b%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/inferno/springvand_b%20(2).png",
+                    "mapLocation": {
+                        "x": 43.75,
+                        "y": 45.41015625
+                    }
+                }
+            }
+        ]
     }
 ]

@@ -1,83 +1,188 @@
 [
     {
-        "name": "Close red",
-        "description": "Throw with far red",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/closeRed2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/closeRed1.png"
-    },
-    {
-        "name": "Far red",
-        "description": "Throw with close red",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/farRed2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/farRed1.png"
-    },
-    {
-        "name": "CT to silo",
-        "description": "",
-        "team": "CT",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/CTtoSilo2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/CTtoSilo1.png"
-    },
-    {
-        "name": "Upper Door",
-        "description": "Shoot the windows",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/door2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/door1.png"
-    },
-    {
-        "name": "Heaven from silo",
-        "description": "Shoot the window",
-        "team": "T",
-        "area": "A",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/heaven2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/heaven1.png"
-    },
-    {
-        "name": "Main from yard",
-        "description": "Run throw, below wire = throw",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/mainFromTYard2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/mainFromTYard1.png"
-    },
-    {
-        "name": "Ramp right side",
-        "description": "Run throw",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": false,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/rampRight2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/rampRight1.png"
-    },
-    {
-        "name": "Garage",
-        "description": "",
-        "team": "T",
-        "area": "B",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/Tgarage2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/Tgarage1.png"
-    },
-    {
-        "name": "Top main from T",
-        "description": "",
-        "team": "T",
-        "area": "Mid",
-        "jumpThrow": true,
-        "throwLocation": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/topMain2.png",
-        "aimSpot": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/topMain1.png"
+        "uuid": "de_nuke",
+        "name": "Nuke",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/refactor/maps/nuke/de_nuke_radar_top.png",
+        "ctSpawn": {
+            "x": 81.73828125,
+            "y": 45.80078125
+        },
+        "tSpawn": {
+            "x": 19.921875,
+            "y": 54.58984375
+        },
+        "popLocations": [
+            {
+                "uuid": "78b5ac87-23ab-4369-a033-d6c887a09a49",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 60.83984375,
+                    "y": 71.77734375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/closeRed1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/closeRed2.png",
+                    "mapLocation": {
+                        "x": 30.46875,
+                        "y": 57.03125
+                    }
+                }
+            },
+            {
+                "uuid": "1ba0b07d-6d51-4cdf-9900-76607ca98c14",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 64.2578125,
+                    "y": 71.875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/farRed2.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/farRed1.png",
+                    "mapLocation": {
+                        "x": 30.2734375,
+                        "y": 56.73828125
+                    }
+                }
+            },
+            {
+                "uuid": "c1cdb7c9-e06b-4684-a272-08031d255f2d",
+                "nadeType": "Smoke",
+                "team": "CT",
+                "location": {
+                    "x": 50,
+                    "y": 63.28125
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/CTtoSilo1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/CTtoSilo2.png",
+                    "mapLocation": {
+                        "x": 75.09765625,
+                        "y": 51.66015625
+                    }
+                }
+            },
+            {
+                "uuid": "af2ee951-a619-477c-8e1a-132706f212e3",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 54.58984375,
+                    "y": 58.49609375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/door1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/door2.png",
+                    "mapLocation": {
+                        "x": 35.83984375,
+                        "y": 53.3203125
+                    }
+                }
+            },
+            {
+                "uuid": "6f31b348-cf6a-4cee-8d56-92cdbd527c39",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 63.96484375,
+                    "y": 45.3125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/heaven1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/heaven2.png",
+                    "mapLocation": {
+                        "x": 47.65625,
+                        "y": 61.71875
+                    }
+                }
+            },
+            {
+                "uuid": "0cd0b069-e4a1-43dd-a83c-c9d20eafd714",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 66.11328125,
+                    "y": 64.453125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/mainFromTYard1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/mainFromTYard2.png",
+                    "mapLocation": {
+                        "x": 44.23828125,
+                        "y": 67.67578125
+                    }
+                }
+            },
+            {
+                "uuid": "a202cad0-16e9-4f4f-be45-dc2a69674d17",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 55.56640625,
+                    "y": 39.35546875
+                },
+                "description": "Running",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/rampRight1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/rampRight2.png",
+                    "mapLocation": {
+                        "x": 51.66015625,
+                        "y": 42.3828125
+                    }
+                }
+            },
+            {
+                "uuid": "c6da7255-f7f4-4f33-b722-f521b3c65d03",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 67.96875,
+                    "y": 66.9921875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/Tgarage1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/Tgarage2.png",
+                    "mapLocation": {
+                        "x": 35.44921875,
+                        "y": 54.78515625
+                    }
+                }
+            },
+            {
+                "uuid": "42ca0ec8-b2d7-4fc3-a159-f4694f0b0bb4",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 60.44921875,
+                    "y": 65.234375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/topMain1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/nuke/topMain2.png",
+                    "mapLocation": {
+                        "x": 29.6875,
+                        "y": 54.98046875
+                    }
+                }
+            }
+        ]
     }
 ]
