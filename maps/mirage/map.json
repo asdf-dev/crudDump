@@ -9,7 +9,9 @@
         },
         "tSpawn": {
             "x": 87.79296875,
-            "y": 36.23046875
+            "y": 36.23046875,
+            "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mirageTspawn.png",
+            "squares": []
         },
         "popLocations": [
             {
