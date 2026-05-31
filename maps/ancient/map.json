@@ -230,6 +230,25 @@
                         "y": 60.15625
                     }
                 }
+            },
+            {
+                "uuid": "bd8d1703-2e6e-4d7a-a3c5-b75bdb3c935e",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 36.1328125,
+                    "y": 26.3671875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/fire-a-main-1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/fire-a-main-2.png",
+                    "mapLocation": {
+                        "x": 18.9453125,
+                        "y": 35.25390625
+                    }
+                }
             }
         ]
     }
