@@ -249,6 +249,25 @@
                         "y": 35.25390625
                     }
                 }
+            },
+            {
+                "uuid": "48d5e0dc-51e5-4da3-a91b-bf84101bdcef",
+                "nadeType": "Flash",
+                "team": "T",
+                "location": {
+                    "x": 19.43359375,
+                    "y": 30.95703125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/flash-a-main-1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/flash-a-main-2.png",
+                    "mapLocation": {
+                        "x": 14.84375,
+                        "y": 50.78125
+                    }
+                }
             }
         ]
     }
