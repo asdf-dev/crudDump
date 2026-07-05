@@ -1,439 +1,495 @@
 [
     {
-        "uuid": "b55b29b1-8dd0-4fd1-a2d3-f272ee990db4",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 19.53125,
-            "y": 22.8515625
+        "uuid": "de_mirage",
+        "name": "Mirage",
+        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/de_mirage_radar.png",
+        "ctSpawn": {
+            "x": 30.2734375,
+            "y": 70.21484375
         },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b%20jail%20(1).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b%20jail%20(2).png",
-            "mapLocation": {
-                "x": 48.73046875,
-                "y": 23.2421875
+        "tSpawn": {
+            "x": 87.79296875,
+            "y": 36.23046875,
+            "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mirageTspawn.png",
+            "squares": {
+                "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mirageTspawn.png",
+                "squares": [
+                    {
+                        "x": 81.54,
+                        "y": 79.45,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/1.jpg",
+                        "jumpthrow": true
+                    },
+                    {
+                        "x": 14.16,
+                        "y": 79.8,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/2.jpg",
+                        "jumpthrow": true
+                    },
+                    {
+                        "x": 71.78,
+                        "y": 54.77,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/3.jpg",
+                        "jumpthrow": true
+                    },
+                    {
+                        "x": 55.47,
+                        "y": 56.5,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/4.jpg",
+                        "jumpthrow": true
+                    },
+                    {
+                        "x": 39.26,
+                        "y": 56.5,
+                        "size": 7,
+                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/5.jpg",
+                        "jumpthrow": true
+                    }
+                ]
             }
-        }
-    },
-    {
-        "uuid": "91b0bcc5-6842-450b-8419-37dfc2ae3e41",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 17.28515625,
-            "y": 38.4765625
         },
-        "description": "",
-        "jumpThrow": true,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/bDoor%20(2).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/bDoor%20(1).png",
-            "mapLocation": {
-                "x": 59.9609375,
-                "y": 15.8203125
+        "popLocations": [
+            {
+                "uuid": "b55b29b1-8dd0-4fd1-a2d3-f272ee990db4",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 19.53125,
+                    "y": 22.8515625
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b%20jail%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b%20jail%20(2).png",
+                    "mapLocation": {
+                        "x": 48.73046875,
+                        "y": 23.2421875
+                    }
+                }
+            },
+            {
+                "uuid": "91b0bcc5-6842-450b-8419-37dfc2ae3e41",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 17.28515625,
+                    "y": 38.4765625
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/bDoor%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/bDoor%20(1).png",
+                    "mapLocation": {
+                        "x": 59.9609375,
+                        "y": 15.8203125
+                    }
+                }
+            },
+            {
+                "uuid": "c063f3f2-3a98-4e06-b24e-825b2c4073f7",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 25.390625,
+                    "y": 37.890625
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b_window%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b_window%20(2).png",
+                    "mapLocation": {
+                        "x": 60.15625,
+                        "y": 15.8203125
+                    }
+                }
+            },
+            {
+                "uuid": "304680e1-14de-4c25-95ec-dd8ef783490a",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 44.62890625,
+                    "y": 79.6875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/ct%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/ct%20(2).png",
+                    "mapLocation": {
+                        "x": 80.46875,
+                        "y": 53.22265625
+                    }
+                }
+            },
+            {
+                "uuid": "82893acf-d3ac-41b0-bf18-7e2ce4c8fa9b",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 49.8046875,
+                    "y": 64.6484375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/lower_stairs%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/lower_stairs%20(1).png",
+                    "mapLocation": {
+                        "x": 79.296875,
+                        "y": 64.0625
+                    }
+                }
+            },
+            {
+                "uuid": "7cd24a21-7900-4e0a-809c-e5579869c800",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 33.7890625,
+                    "y": 29.296875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/pillarLeft%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/pillarLeft%20(1).png",
+                    "mapLocation": {
+                        "x": 52.734375,
+                        "y": 22.65625
+                    }
+                }
+            },
+            {
+                "uuid": "47ff69f9-5a1c-447b-a2ae-c41c5b6909eb",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 33.88671875,
+                    "y": 24.21875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/pillarRight%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/pillarRight%20(1).png",
+                    "mapLocation": {
+                        "x": 51.07421875,
+                        "y": 20.8984375
+                    }
+                }
+            },
+            {
+                "uuid": "ed6e0af9-8579-401a-ab52-4e29177ee7ba",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 47.0703125,
+                    "y": 37.79296875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/short%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/short%20(2).png",
+                    "mapLocation": {
+                        "x": 91.40625,
+                        "y": 37.5
+                    }
+                }
+            },
+            {
+                "uuid": "a68fb3b6-fdfe-46e9-8e14-103e4f74981b",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 48.046875,
+                    "y": 40.625
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/short_from_under%20(2).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/short_from_under%20(1).png",
+                    "mapLocation": {
+                        "x": 43.359375,
+                        "y": 41.89453125
+                    }
+                }
+            },
+            {
+                "uuid": "029fd504-c77a-4840-8a62-3719f3f97213",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 54.19921875,
+                    "y": 64.16015625
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/stairs%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/stairs%20(2).png",
+                    "mapLocation": {
+                        "x": 85.9375,
+                        "y": 57.03125
+                    }
+                }
+            },
+            {
+                "uuid": "e61b170c-fd45-47ea-a960-e71d587f3abd",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 39.453125,
+                    "y": 45.60546875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/window%20(1).png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/window%20(2).png",
+                    "mapLocation": {
+                        "x": 90.72265625,
+                        "y": 31.73828125
+                    }
+                }
+            },
+            {
+                "uuid": "148d0173-df99-4796-818b-f45574ec32b5",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 63.4765625,
+                    "y": 73.73046875
+                },
+                "description": "Run throw - Let go at doorway",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_dark_top_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_dark_top_2_doorway.png",
+                    "mapLocation": {
+                        "x": 74.51171875,
+                        "y": 76.953125
+                    }
+                }
+            },
+            {
+                "uuid": "513a3cae-6518-4945-a46e-28760c7c755b",
+                "nadeType": "Fire",
+                "team": "CT",
+                "location": {
+                    "x": 57.2265625,
+                    "y": 76.7578125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_default_ct_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_default_ct_2.png",
+                    "mapLocation": {
+                        "x": 50.5859375,
+                        "y": 58.203125
+                    }
+                }
+            },
+            {
+                "uuid": "d28cb2c5-85e1-49cb-b725-8956a58af369",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 57.2265625,
+                    "y": 76.7578125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_defualt_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_defualt_2.png",
+                    "mapLocation": {
+                        "x": 67.96875,
+                        "y": 61.42578125
+                    }
+                }
+            },
+            {
+                "uuid": "d832c3e3-8150-4c31-8458-660e1370e99a",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 50.390625,
+                    "y": 74.51171875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_triple_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_triple_2.png",
+                    "mapLocation": {
+                        "x": 62.59765625,
+                        "y": 61.42578125
+                    }
+                }
+            },
+            {
+                "uuid": "3046938f-6a11-4d26-97f9-87dcce68f660",
+                "nadeType": "Fire",
+                "team": "CT",
+                "location": {
+                    "x": 56.640625,
+                    "y": 50.78125
+                },
+                "description": "Walk throw",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mid_short_chair_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mid_short_chair_2_walk_throw.png",
+                    "mapLocation": {
+                        "x": 41.11328125,
+                        "y": 27.5390625
+                    }
+                }
+            },
+            {
+                "uuid": "9f87a0ef-3d52-4834-be4e-119772103993",
+                "nadeType": "Flash",
+                "team": "CT",
+                "location": {
+                    "x": 62.20703125,
+                    "y": 64.74609375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_dark_rampe_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_dark_rampe_2.png",
+                    "mapLocation": {
+                        "x": 64.6484375,
+                        "y": 71.875
+                    }
+                }
+            },
+            {
+                "uuid": "daba600c-a3f3-474c-a91e-4584923b7964",
+                "nadeType": "Flash",
+                "team": "T",
+                "location": {
+                    "x": 62.20703125,
+                    "y": 64.74609375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_lampe_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_lampe_2.png",
+                    "mapLocation": {
+                        "x": 67.1875,
+                        "y": 61.23046875
+                    }
+                }
+            },
+            {
+                "uuid": "3d50e001-f5e3-4eb6-bb28-0aeefeb4c317",
+                "nadeType": "Flash",
+                "team": "T",
+                "location": {
+                    "x": 30.078125,
+                    "y": 24.21875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b_apps_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b_apps_2.png",
+                    "mapLocation": {
+                        "x": 34.27734375,
+                        "y": 20.1171875
+                    }
+                }
+            },
+            {
+                "uuid": "5ff4eaf9-b2f9-4755-9059-e89bfff41e32",
+                "nadeType": "Flash",
+                "team": "CT",
+                "location": {
+                    "x": 43.06640625,
+                    "y": 42.578125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mid_ug_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mid_ug_2.png",
+                    "mapLocation": {
+                        "x": 51.26953125,
+                        "y": 53.515625
+                    }
+                }
+            },
+            {
+                "uuid": "fb6827f6-7d58-4145-89f1-57fd4471a637",
+                "nadeType": "Flash",
+                "team": "T",
+                "location": {
+                    "x": 66.6015625,
+                    "y": 42.87109375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/t_mid_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/t_mid_2_jumpthrow.png",
+                    "mapLocation": {
+                        "x": 73.33984375,
+                        "y": 21.6796875
+                    }
+                }
+            },
+            {
+                "uuid": "9466cb4e-797a-484d-9be6-5173772c6607",
+                "nadeType": "Flash",
+                "team": "T",
+                "location": {
+                    "x": 50.48828125,
+                    "y": 49.31640625
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/top_mid_con_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/top_mid_con_2.png",
+                    "mapLocation": {
+                        "x": 70.80078125,
+                        "y": 46.97265625
+                    }
+                }
+            },
+            {
+                "uuid": "9af0b271-41c9-4abb-a9fb-1837594cdd2e",
+                "nadeType": "Flash",
+                "team": "CT",
+                "location": {
+                    "x": 41.796875,
+                    "y": 45.703125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/vindue_mid_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/vindue_mid_2.png",
+                    "mapLocation": {
+                        "x": 39.16015625,
+                        "y": 50.390625
+                    }
+                }
             }
-        }
-    },
-    {
-        "uuid": "c063f3f2-3a98-4e06-b24e-825b2c4073f7",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 25.390625,
-            "y": 37.890625
-        },
-        "description": "",
-        "jumpThrow": true,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b_window%20(1).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b_window%20(2).png",
-            "mapLocation": {
-                "x": 60.15625,
-                "y": 15.8203125
-            }
-        }
-    },
-    {
-        "uuid": "304680e1-14de-4c25-95ec-dd8ef783490a",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 44.62890625,
-            "y": 79.6875
-        },
-        "description": "",
-        "jumpThrow": true,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/ct%20(1).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/ct%20(2).png",
-            "mapLocation": {
-                "x": 80.46875,
-                "y": 53.22265625
-            }
-        }
-    },
-    {
-        "uuid": "82893acf-d3ac-41b0-bf18-7e2ce4c8fa9b",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 49.8046875,
-            "y": 64.6484375
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/lower_stairs%20(2).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/lower_stairs%20(1).png",
-            "mapLocation": {
-                "x": 79.296875,
-                "y": 64.0625
-            }
-        }
-    },
-    {
-        "uuid": "7cd24a21-7900-4e0a-809c-e5579869c800",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 33.7890625,
-            "y": 29.296875
-        },
-        "description": "",
-        "jumpThrow": true,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/pillarLeft%20(2).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/pillarLeft%20(1).png",
-            "mapLocation": {
-                "x": 52.734375,
-                "y": 22.65625
-            }
-        }
-    },
-    {
-        "uuid": "47ff69f9-5a1c-447b-a2ae-c41c5b6909eb",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 33.88671875,
-            "y": 24.21875
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/pillarRight%20(2).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/pillarRight%20(1).png",
-            "mapLocation": {
-                "x": 51.07421875,
-                "y": 20.8984375
-            }
-        }
-    },
-    {
-        "uuid": "ed6e0af9-8579-401a-ab52-4e29177ee7ba",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 47.0703125,
-            "y": 37.79296875
-        },
-        "description": "",
-        "jumpThrow": true,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/short%20(1).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/short%20(2).png",
-            "mapLocation": {
-                "x": 91.40625,
-                "y": 37.5
-            }
-        }
-    },
-    {
-        "uuid": "a68fb3b6-fdfe-46e9-8e14-103e4f74981b",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 48.046875,
-            "y": 40.625
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/short_from_under%20(2).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/short_from_under%20(1).png",
-            "mapLocation": {
-                "x": 43.359375,
-                "y": 41.89453125
-            }
-        }
-    },
-    {
-        "uuid": "029fd504-c77a-4840-8a62-3719f3f97213",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 54.19921875,
-            "y": 64.16015625
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/stairs%20(1).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/stairs%20(2).png",
-            "mapLocation": {
-                "x": 85.9375,
-                "y": 57.03125
-            }
-        }
-    },
-    {
-        "uuid": "e61b170c-fd45-47ea-a960-e71d587f3abd",
-        "nadeType": "Smoke",
-        "team": "T",
-        "location": {
-            "x": 39.453125,
-            "y": 45.60546875
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/window%20(1).png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/window%20(2).png",
-            "mapLocation": {
-                "x": 90.72265625,
-                "y": 31.73828125
-            }
-        }
-    },
-    {
-        "uuid": "148d0173-df99-4796-818b-f45574ec32b5",
-        "nadeType": "Fire",
-        "team": "T",
-        "location": {
-            "x": 63.4765625,
-            "y": 73.73046875
-        },
-        "description": "Run throw - Let go at doorway",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_dark_top_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_dark_top_2_doorway.png",
-            "mapLocation": {
-                "x": 74.51171875,
-                "y": 76.953125
-            }
-        }
-    },
-    {
-        "uuid": "513a3cae-6518-4945-a46e-28760c7c755b",
-        "nadeType": "Fire",
-        "team": "CT",
-        "location": {
-            "x": 57.2265625,
-            "y": 76.7578125
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_default_ct_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_default_ct_2.png",
-            "mapLocation": {
-                "x": 50.5859375,
-                "y": 58.203125
-            }
-        }
-    },
-    {
-        "uuid": "d28cb2c5-85e1-49cb-b725-8956a58af369",
-        "nadeType": "Fire",
-        "team": "T",
-        "location": {
-            "x": 57.2265625,
-            "y": 76.7578125
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_defualt_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_defualt_2.png",
-            "mapLocation": {
-                "x": 67.96875,
-                "y": 61.42578125
-            }
-        }
-    },
-    {
-        "uuid": "d832c3e3-8150-4c31-8458-660e1370e99a",
-        "nadeType": "Fire",
-        "team": "T",
-        "location": {
-            "x": 50.390625,
-            "y": 74.51171875
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_triple_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_triple_2.png",
-            "mapLocation": {
-                "x": 62.59765625,
-                "y": 61.42578125
-            }
-        }
-    },
-    {
-        "uuid": "3046938f-6a11-4d26-97f9-87dcce68f660",
-        "nadeType": "Fire",
-        "team": "CT",
-        "location": {
-            "x": 56.640625,
-            "y": 50.78125
-        },
-        "description": "Walk throw",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mid_short_chair_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mid_short_chair_2_walk_throw.png",
-            "mapLocation": {
-                "x": 41.11328125,
-                "y": 27.5390625
-            }
-        }
-    },
-    {
-        "uuid": "9f87a0ef-3d52-4834-be4e-119772103993",
-        "nadeType": "Flash",
-        "team": "CT",
-        "location": {
-            "x": 62.20703125,
-            "y": 64.74609375
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_dark_rampe_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_dark_rampe_2.png",
-            "mapLocation": {
-                "x": 64.6484375,
-                "y": 71.875
-            }
-        }
-    },
-    {
-        "uuid": "daba600c-a3f3-474c-a91e-4584923b7964",
-        "nadeType": "Flash",
-        "team": "T",
-        "location": {
-            "x": 62.20703125,
-            "y": 64.74609375
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_lampe_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/a_lampe_2.png",
-            "mapLocation": {
-                "x": 67.1875,
-                "y": 61.23046875
-            }
-        }
-    },
-    {
-        "uuid": "3d50e001-f5e3-4eb6-bb28-0aeefeb4c317",
-        "nadeType": "Flash",
-        "team": "T",
-        "location": {
-            "x": 30.078125,
-            "y": 24.21875
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b_apps_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/b_apps_2.png",
-            "mapLocation": {
-                "x": 34.27734375,
-                "y": 20.1171875
-            }
-        }
-    },
-    {
-        "uuid": "5ff4eaf9-b2f9-4755-9059-e89bfff41e32",
-        "nadeType": "Flash",
-        "team": "CT",
-        "location": {
-            "x": 43.06640625,
-            "y": 42.578125
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mid_ug_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mid_ug_2.png",
-            "mapLocation": {
-                "x": 51.26953125,
-                "y": 53.515625
-            }
-        }
-    },
-    {
-        "uuid": "fb6827f6-7d58-4145-89f1-57fd4471a637",
-        "nadeType": "Flash",
-        "team": "T",
-        "location": {
-            "x": 66.6015625,
-            "y": 42.87109375
-        },
-        "description": "",
-        "jumpThrow": true,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/t_mid_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/t_mid_2_jumpthrow.png",
-            "mapLocation": {
-                "x": 73.33984375,
-                "y": 21.6796875
-            }
-        }
-    },
-    {
-        "uuid": "9466cb4e-797a-484d-9be6-5173772c6607",
-        "nadeType": "Flash",
-        "team": "T",
-        "location": {
-            "x": 50.48828125,
-            "y": 49.31640625
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/top_mid_con_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/top_mid_con_2.png",
-            "mapLocation": {
-                "x": 70.80078125,
-                "y": 46.97265625
-            }
-        }
-    },
-    {
-        "uuid": "9af0b271-41c9-4abb-a9fb-1837594cdd2e",
-        "nadeType": "Flash",
-        "team": "CT",
-        "location": {
-            "x": 41.796875,
-            "y": 45.703125
-        },
-        "description": "",
-        "jumpThrow": false,
-        "lineup": {
-            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/vindue_mid_1.png",
-            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/vindue_mid_2.png",
-            "mapLocation": {
-                "x": 39.16015625,
-                "y": 50.390625
-            }
-        }
+        ]
     }
 ]
