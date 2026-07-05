@@ -224,6 +224,253 @@
                         "y": 64.453125
                     }
                 }
+            },
+            {
+                "uuid": "d77a0881-575d-4afb-a9b4-2a3e27f2e027",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 71.38671875,
+                    "y": 21.6796875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "a_heaven_from_water_1.png",
+                    "throwUrl": "a_heaven_from_water_2.png",
+                    "mapLocation": {
+                        "x": 75.78125,
+                        "y": 52.5390625
+                    }
+                }
+            },
+            {
+                "uuid": "b513c458-4e6f-4978-a2ce-6d52376765a6",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 72.4609375,
+                    "y": 25.390625
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "a_site_from_water_barrel_1.png",
+                    "throwUrl": "a_site_from_water_barrel_2.png",
+                    "mapLocation": {
+                        "x": 66.50390625,
+                        "y": 49.609375
+                    }
+                }
+            },
+            {
+                "uuid": "db0a361a-f39e-4adf-8020-9c301f1daa74",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 29.98046875,
+                    "y": 49.70703125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "b_default_fire_1.png",
+                    "throwUrl": "b_default_fire_2.png",
+                    "mapLocation": {
+                        "x": 30.37109375,
+                        "y": 31.93359375
+                    }
+                }
+            },
+            {
+                "uuid": "c1083969-f594-4ade-9258-e4011f827062",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 31.15234375,
+                    "y": 56.93359375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "b_pillar_front_1.png",
+                    "throwUrl": "b_pillar_front_2.png",
+                    "mapLocation": {
+                        "x": 22.65625,
+                        "y": 63.28125
+                    }
+                }
+            },
+            {
+                "uuid": "cee6abba-ab4a-482d-9e17-1c1fff783bd3",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 41.015625,
+                    "y": 50.87890625
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "backsite_from_eboks_1.png",
+                    "throwUrl": "backsite_from_eboks_2.png",
+                    "mapLocation": {
+                        "x": 41.30859375,
+                        "y": 57.12890625
+                    }
+                }
+            },
+            {
+                "uuid": "2e4a712a-87a0-49d8-a017-ce135c140c94",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 72.55859375,
+                    "y": 36.5234375
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "corner_from_water_1.png",
+                    "throwUrl": "corner_from_water_2_jump.png",
+                    "mapLocation": {
+                        "x": 75.68359375,
+                        "y": 52.05078125
+                    }
+                }
+            },
+            {
+                "uuid": "db60af21-b5d7-436a-8007-b8b002ee36d8",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 83.3984375,
+                    "y": 26.46484375
+                },
+                "description": "Walk throw",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "fountain_from_main_1.png",
+                    "throwUrl": "fountain_from_main_2_walk.png",
+                    "mapLocation": {
+                        "x": 79.39453125,
+                        "y": 46.6796875
+                    }
+                }
+            },
+            {
+                "uuid": "0b65072a-d2b7-4683-a22f-6f591556c560",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 56.4453125,
+                    "y": 51.26953125
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "mid_doors_1.png",
+                    "throwUrl": "mid_doors_2.png",
+                    "mapLocation": {
+                        "x": 48.2421875,
+                        "y": 64.35546875
+                    }
+                }
+            },
+            {
+                "uuid": "934b9aee-e218-43d9-987d-0b621d85aa9a",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 83.3984375,
+                    "y": 26.46484375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "pillar_from_back_heaven_1.png",
+                    "throwUrl": "pillar_from_back_heaven_2.png",
+                    "mapLocation": {
+                        "x": 63.37890625,
+                        "y": 25.29296875
+                    }
+                }
+            },
+            {
+                "uuid": "f123c75e-7492-4e7b-8497-782451e6aee5",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 67.3828125,
+                    "y": 30.76171875
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "plat_from_water_1.png",
+                    "throwUrl": "plat_from_water_2.png",
+                    "mapLocation": {
+                        "x": 72.36328125,
+                        "y": 52.63671875
+                    }
+                }
+            },
+            {
+                "uuid": "3818ea04-9780-4d54-aa46-e5e0ccd580dd",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 50.5859375,
+                    "y": 52.24609375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "top_mid_from_1.png",
+                    "throwUrl": "top_mid_from_2.png",
+                    "mapLocation": {
+                        "x": 42.28515625,
+                        "y": 69.3359375
+                    }
+                }
+            },
+            {
+                "uuid": "395839ca-5890-4e6b-9e11-6470c266e8d8",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 50.5859375,
+                    "y": 52.24609375
+                },
+                "description": "",
+                "jumpThrow": false,
+                "lineup": {
+                    "standUrl": "top_mid_street_1.png",
+                    "throwUrl": "top_mid_street_2.png",
+                    "mapLocation": {
+                        "x": 55.56640625,
+                        "y": 70.8984375
+                    }
+                }
+            },
+            {
+                "uuid": "ae2606b2-2bc1-4985-8382-86c7d46cfb73",
+                "nadeType": "Fire",
+                "team": "T",
+                "location": {
+                    "x": 56.4453125,
+                    "y": 51.26953125
+                },
+                "description": "Run jump",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "window_from_ally_1.png",
+                    "throwUrl": "window_from_ally_2_run_jump.png",
+                    "mapLocation": {
+                        "x": 72.0703125,
+                        "y": 71.77734375
+                    }
+                }
             }
         ]
     }
