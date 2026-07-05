@@ -420,6 +420,25 @@
                         "y": 48.6328125
                     }
                 }
+            },
+            {
+                "uuid": "d9a15585-f59f-469a-8fce-ff29a4a5c1ac",
+                "nadeType": "Smoke",
+                "team": "T",
+                "location": {
+                    "x": 79.6875,
+                    "y": 36.71875
+                },
+                "description": "",
+                "jumpThrow": true,
+                "lineup": {
+                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/back_ally_from_ruins_1.png",
+                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/back_ally_from_ruins_2.png",
+                    "mapLocation": {
+                        "x": 81.4453125,
+                        "y": 71.09375
+                    }
+                }
             }
         ]
     }
