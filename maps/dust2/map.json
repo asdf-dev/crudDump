@@ -181,8 +181,8 @@
         "description": "",
         "jumpThrow": false,
         "lineup": {
-            "standUrl": "a_default_1.png",
-            "throwUrl": "a_default_2.png",
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/a_default_1.png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/a_default_2.png",
             "mapLocation": {
                 "x": 66.50390625,
                 "y": 24.90234375

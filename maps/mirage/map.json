@@ -429,7 +429,7 @@
         "jumpThrow": false,
         "lineup": {
             "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/vindue_mid_1.png",
-            "throwUrl": "vindue_mid_2.png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/vindue_mid_2.png",
             "mapLocation": {
                 "x": 39.16015625,
                 "y": 50.390625
