@@ -281,8 +281,8 @@
                     "description": "",
                     "jumpThrow": false,
                     "lineup": {
-                        "standUrl": "b_pillar_1.png",
-                        "throwUrl": "b_pillar_2.png",
+                        "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_pillar_1.png",
+                        "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_pillar_2.png",
                         "mapLocation": {
                             "x": 79.8828125,
                             "y": 60.05859375
@@ -300,8 +300,8 @@
                     "description": "",
                     "jumpThrow": true,
                     "lineup": {
-                        "standUrl": "long_b_1.png",
-                        "throwUrl": "long_b_2.png",
+                        "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/long_b_1.png",
+                        "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/long_b_2.png",
                         "mapLocation": {
                             "x": 67.578125,
                             "y": 58.7890625
@@ -319,8 +319,8 @@
                     "description": "",
                     "jumpThrow": true,
                     "lineup": {
-                        "standUrl": "mid_elbow_1.png",
-                        "throwUrl": "mid_elbow_2_jump.png",
+                        "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid_elbow_1.png",
+                        "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid_elbow_2_jump.png",
                         "mapLocation": {
                             "x": 48.92578125,
                             "y": 36.328125
@@ -338,8 +338,8 @@
                     "description": "",
                     "jumpThrow": true,
                     "lineup": {
-                        "standUrl": "wood_from_door_1.png",
-                        "throwUrl": "wood_from_door_2_jump.png",
+                        "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/wood_from_door_1.png",
+                        "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/wood_from_door_2_jump.png",
                         "mapLocation": {
                             "x": 81.4453125,
                             "y": 71.484375
@@ -357,11 +357,68 @@
                     "description": "",
                     "jumpThrow": false,
                     "lineup": {
-                        "standUrl": "wood_from_door_1.png",
-                        "throwUrl": "wood_from_door_2.png",
+                        "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/wood_from_door_1.png",
+                        "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/wood_from_door_2.png",
                         "mapLocation": {
                             "x": 80.17578125,
                             "y": 60.7421875
+                        }
+                    }
+                },
+                {
+                    "uuid": "b706ea62-2c7c-4ba9-8264-3ee7c0f135b7",
+                    "nadeType": "Flash",
+                    "team": "T",
+                    "location": {
+                        "x": 79.98046875,
+                        "y": 46.484375
+                    },
+                    "description": "",
+                    "jumpThrow": false,
+                    "lineup": {
+                        "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_from_ruins_flash_1.png",
+                        "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/b_from_ruins_flash_2_jump.png",
+                        "mapLocation": {
+                            "x": 79.8828125,
+                            "y": 68.9453125
+                        }
+                    }
+                },
+                {
+                    "uuid": "7c509ba9-0554-41f0-ab3a-27e506ceb348",
+                    "nadeType": "Flash",
+                    "team": "T",
+                    "location": {
+                        "x": 46.09375,
+                        "y": 52.24609375
+                    },
+                    "description": "",
+                    "jumpThrow": false,
+                    "lineup": {
+                        "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid_flash_T_1.png",
+                        "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid_flash_T_2.png",
+                        "mapLocation": {
+                            "x": 33.59375,
+                            "y": 63.4765625
+                        }
+                    }
+                },
+                {
+                    "uuid": "58f89456-9a60-41b7-8224-21290190e66a",
+                    "nadeType": "Flash",
+                    "team": "T",
+                    "location": {
+                        "x": 51.85546875,
+                        "y": 46.97265625
+                    },
+                    "description": "",
+                    "jumpThrow": false,
+                    "lineup": {
+                        "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid_from_wood_1.png",
+                        "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/ancient/mid_from_wood_2_crouch_2.png",
+                        "mapLocation": {
+                            "x": 72.0703125,
+                            "y": 48.6328125
                         }
                     }
                 }
