@@ -1,188 +1,325 @@
 [
     {
-        "uuid": "de_dust2",
-        "name": "Dust2",
-        "radarUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/de_dust2_radar.png",
-        "ctSpawn": {
-            "x": 61.1328125,
-            "y": 20.5078125
+        "uuid": "d0c95936-b86a-44cd-b761-9b96d3b2a1b3",
+        "nadeType": "Smoke",
+        "team": "T",
+        "location": {
+            "x": 11.9140625,
+            "y": 19.43359375
         },
-        "tSpawn": {
-            "x": 38.4765625,
-            "y": 90.0390625
-        },
-        "popLocations": [
-            {
-                "uuid": "d0c95936-b86a-44cd-b761-9b96d3b2a1b3",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 11.9140625,
-                    "y": 19.43359375
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/B_plat_10s%20(1).png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/B_plat_10s%20(2).png",
-                    "mapLocation": {
-                        "x": 25.87890625,
-                        "y": 61.03515625
-                    }
-                }
-            },
-            {
-                "uuid": "0ff94ad2-dc06-4fe7-957b-692075392de9",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 26.7578125,
-                    "y": 21.97265625
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_door%20(1).png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_door%20(2).png",
-                    "mapLocation": {
-                        "x": 26.07421875,
-                        "y": 60.9375
-                    }
-                }
-            },
-            {
-                "uuid": "a61bb3b0-b566-4d0d-b0c8-44a53081caf3",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 50.390625,
-                    "y": 24.70703125
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct%20(2).png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct%20(1).png",
-                    "mapLocation": {
-                        "x": 48.53515625,
-                        "y": 42.28515625
-                    }
-                }
-            },
-            {
-                "uuid": "d5977b0e-6883-4128-a99a-048091be9936",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 78.02734375,
-                    "y": 24.4140625
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct_ramp%20(2).png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct_ramp%20(1).png",
-                    "mapLocation": {
-                        "x": 74.90234375,
-                        "y": 48.14453125
-                    }
-                }
-            },
-            {
-                "uuid": "69a319f3-9136-422b-8065-a35a44daf1d9",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 82.51953125,
-                    "y": 45.80078125
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/long_conor%20(2).png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/long_conor%20(1).png",
-                    "mapLocation": {
-                        "x": 52.24609375,
-                        "y": 86.62109375
-                    }
-                }
-            },
-            {
-                "uuid": "8fe4f16f-7a82-4bdc-8585-e9f09c76e8b8",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 45.41015625,
-                    "y": 37.20703125
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_door%20(2).png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_door%20(1).png",
-                    "mapLocation": {
-                        "x": 46.2890625,
-                        "y": 94.82421875
-                    }
-                }
-            },
-            {
-                "uuid": "e794de2c-8031-4818-8573-92edc3cb2bb6",
-                "nadeType": "Smoke",
-                "team": "CT",
-                "location": {
-                    "x": 49.609375,
-                    "y": 58.49609375
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_palme%20(2).png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_palme%20(1).png",
-                    "mapLocation": {
-                        "x": 67.87109375,
-                        "y": 18.9453125
-                    }
-                }
-            },
-            {
-                "uuid": "0d78f7ee-0093-404c-a23f-e94f6a702ea9",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 25.5859375,
-                    "y": 12.79296875
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/window_8s%20(2).png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/window_8s%20(1).png",
-                    "mapLocation": {
-                        "x": 25.78125,
-                        "y": 61.03515625
-                    }
-                }
-            },
-            {
-                "uuid": "53f9ff6d-e5d7-49ad-b8c1-cbbc7d693507",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 48.2421875,
-                    "y": 40.234375
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/xbox%20(2).png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/xbox%20(1).png",
-                    "mapLocation": {
-                        "x": 48.046875,
-                        "y": 97.55859375
-                    }
-                }
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/B_plat_10s%20(1).png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/B_plat_10s%20(2).png",
+            "mapLocation": {
+                "x": 25.87890625,
+                "y": 61.03515625
             }
-        ]
+        }
+    },
+    {
+        "uuid": "0ff94ad2-dc06-4fe7-957b-692075392de9",
+        "nadeType": "Smoke",
+        "team": "T",
+        "location": {
+            "x": 26.7578125,
+            "y": 21.97265625
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_door%20(1).png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_door%20(2).png",
+            "mapLocation": {
+                "x": 26.07421875,
+                "y": 60.9375
+            }
+        }
+    },
+    {
+        "uuid": "a61bb3b0-b566-4d0d-b0c8-44a53081caf3",
+        "nadeType": "Smoke",
+        "team": "T",
+        "location": {
+            "x": 50.390625,
+            "y": 24.70703125
+        },
+        "description": "",
+        "jumpThrow": false,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct%20(2).png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct%20(1).png",
+            "mapLocation": {
+                "x": 48.53515625,
+                "y": 42.28515625
+            }
+        }
+    },
+    {
+        "uuid": "d5977b0e-6883-4128-a99a-048091be9936",
+        "nadeType": "Smoke",
+        "team": "T",
+        "location": {
+            "x": 78.02734375,
+            "y": 24.4140625
+        },
+        "description": "",
+        "jumpThrow": false,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct_ramp%20(2).png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/ct_ramp%20(1).png",
+            "mapLocation": {
+                "x": 74.90234375,
+                "y": 48.14453125
+            }
+        }
+    },
+    {
+        "uuid": "69a319f3-9136-422b-8065-a35a44daf1d9",
+        "nadeType": "Smoke",
+        "team": "T",
+        "location": {
+            "x": 82.51953125,
+            "y": 45.80078125
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/long_conor%20(2).png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/long_conor%20(1).png",
+            "mapLocation": {
+                "x": 52.24609375,
+                "y": 86.62109375
+            }
+        }
+    },
+    {
+        "uuid": "8fe4f16f-7a82-4bdc-8585-e9f09c76e8b8",
+        "nadeType": "Smoke",
+        "team": "T",
+        "location": {
+            "x": 45.41015625,
+            "y": 37.20703125
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_door%20(2).png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_door%20(1).png",
+            "mapLocation": {
+                "x": 46.2890625,
+                "y": 94.82421875
+            }
+        }
+    },
+    {
+        "uuid": "e794de2c-8031-4818-8573-92edc3cb2bb6",
+        "nadeType": "Smoke",
+        "team": "CT",
+        "location": {
+            "x": 49.609375,
+            "y": 58.49609375
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_palme%20(2).png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_palme%20(1).png",
+            "mapLocation": {
+                "x": 67.87109375,
+                "y": 18.9453125
+            }
+        }
+    },
+    {
+        "uuid": "0d78f7ee-0093-404c-a23f-e94f6a702ea9",
+        "nadeType": "Smoke",
+        "team": "T",
+        "location": {
+            "x": 25.5859375,
+            "y": 12.79296875
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/window_8s%20(2).png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/window_8s%20(1).png",
+            "mapLocation": {
+                "x": 25.78125,
+                "y": 61.03515625
+            }
+        }
+    },
+    {
+        "uuid": "53f9ff6d-e5d7-49ad-b8c1-cbbc7d693507",
+        "nadeType": "Smoke",
+        "team": "T",
+        "location": {
+            "x": 48.2421875,
+            "y": 40.234375
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/xbox%20(2).png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/xbox%20(1).png",
+            "mapLocation": {
+                "x": 48.046875,
+                "y": 97.55859375
+            }
+        }
+    },
+    {
+        "uuid": "6a0d1ce7-cfd0-4ec1-b8a3-506d2b6d991e",
+        "nadeType": "Fire",
+        "team": "CT",
+        "location": {
+            "x": 80.2734375,
+            "y": 16.69921875
+        },
+        "description": "",
+        "jumpThrow": false,
+        "lineup": {
+            "standUrl": "a_default_1.png",
+            "throwUrl": "a_default_2.png",
+            "mapLocation": {
+                "x": 66.50390625,
+                "y": 24.90234375
+            }
+        }
+    },
+    {
+        "uuid": "7632ee80-c250-4b80-83c5-4faad88efc04",
+        "nadeType": "Fire",
+        "team": "T",
+        "location": {
+            "x": 80.3,
+            "y": 16.69921875
+        },
+        "description": "",
+        "jumpThrow": false,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/a_default_from_stairs_1.png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/a_default_from_stairs_2_run_jump.png",
+            "mapLocation": {
+                "x": 61.9140625,
+                "y": 34.08203125
+            }
+        }
+    },
+    {
+        "uuid": "a7855c21-2fb7-491d-a197-204b99b3eae4",
+        "nadeType": "Fire",
+        "team": "CT",
+        "location": {
+            "x": 62.40234375,
+            "y": 29.6875
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/a_short_1.png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/a_short_2_jump.png",
+            "mapLocation": {
+                "x": 79.8828125,
+                "y": 5.6640625
+            }
+        }
+    },
+    {
+        "uuid": "fe6a29f9-fb89-46d2-a461-0f8e17e80cdb",
+        "nadeType": "Fire",
+        "team": "CT",
+        "location": {
+            "x": 9.1796875,
+            "y": 5.46875
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_back_plat_1.png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_back_plat_2_jump_throw.png",
+            "mapLocation": {
+                "x": 31.15234375,
+                "y": 25.68359375
+            }
+        }
+    },
+    {
+        "uuid": "a8d63221-cd2d-4ce6-8598-b8caac3ccc96",
+        "nadeType": "Fire",
+        "team": "CT",
+        "location": {
+            "x": 21.875,
+            "y": 11.03515625
+        },
+        "description": "",
+        "jumpThrow": false,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_under_vindue_1.png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/b_under_vindue_2_jump.png",
+            "mapLocation": {
+                "x": 26.26953125,
+                "y": 15.13671875
+            }
+        }
+    },
+    {
+        "uuid": "e7322887-e6fb-488f-ab33-75842c96e68f",
+        "nadeType": "Fire",
+        "team": "T",
+        "location": {
+            "x": 93.9453125,
+            "y": 26.07421875
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/long_car_1.png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/long_car_2_jump.png",
+            "mapLocation": {
+                "x": 72.16796875,
+                "y": 53.90625
+            }
+        }
+    },
+    {
+        "uuid": "96fe4ca8-9727-4943-bfce-1620699a39dc",
+        "nadeType": "Fire",
+        "team": "CT",
+        "location": {
+            "x": 51.07421875,
+            "y": 43.75
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_cat_1.png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_cat_2_jump.png",
+            "mapLocation": {
+                "x": 48.53515625,
+                "y": 33.0078125
+            }
+        }
+    },
+    {
+        "uuid": "07fc493b-6352-439f-bcc8-d8eb111eebc8",
+        "nadeType": "Fire",
+        "team": "T",
+        "location": {
+            "x": 64.6484375,
+            "y": 38.57421875
+        },
+        "description": "",
+        "jumpThrow": true,
+        "lineup": {
+            "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_short_1.png",
+            "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/dust2/mid_short_2_jump.png",
+            "mapLocation": {
+                "x": 43.26171875,
+                "y": 41.30859375
+            }
+        }
     }
 ]
