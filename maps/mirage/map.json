@@ -11,46 +11,59 @@
             "x": 87.79296875,
             "y": 36.23046875,
             "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mirageTspawn.png",
-            "squares": {
-                "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/mirageTspawn.png",
-                "squares": [
-                    {
-                        "x": 81.54,
-                        "y": 79.45,
-                        "size": 7,
-                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/1.jpg",
-                        "jumpthrow": true
-                    },
-                    {
-                        "x": 14.16,
-                        "y": 79.8,
-                        "size": 7,
-                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/2.jpg",
-                        "jumpthrow": true
-                    },
-                    {
-                        "x": 71.78,
-                        "y": 54.77,
-                        "size": 7,
-                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/3.jpg",
-                        "jumpthrow": true
-                    },
-                    {
-                        "x": 55.47,
-                        "y": 56.5,
-                        "size": 7,
-                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/4.jpg",
-                        "jumpthrow": true
-                    },
-                    {
-                        "x": 39.26,
-                        "y": 56.5,
-                        "size": 7,
-                        "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/5.jpg",
-                        "jumpthrow": true
-                    }
-                ]
-            }
+            "squares": [
+                {
+                    "x": 81.35,
+                    "y": 79.28,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/spawn_1.png",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 14.84,
+                    "y": 80.15,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/spawn_2.png",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 71.88,
+                    "y": 55.46,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/spawn_3.png",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 55.37,
+                    "y": 56.33,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/spawn_4.png",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 39.36,
+                    "y": 55.98,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/spawn_5.png",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 78.22,
+                    "y": 33.21,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/spawn_7.png",
+                    "comment": "Move back untill dark spot - W+jumpthrow",
+                    "jumpthrow": true
+                },
+                {
+                    "x": 63.28,
+                    "y": 33.03,
+                    "size": 10,
+                    "imageUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/mirage/T/spawn_8_move_back_untill_buttom_of_rails.png",
+                    "comment": "Move back untill buttom of rails - W+jumpthrow",
+                    "jumpthrow": true
+                }
+            ]
         },
         "popLocations": [
             {
