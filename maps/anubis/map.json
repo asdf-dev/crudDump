@@ -92,500 +92,519 @@
             ]
         },
         "popLocations": [
-            {
-                "uuid": "39ef0dd0-b2ae-4fca-937d-852dd36ab91a",
-                "nadeType": "Smoke",
-                "team": "CT",
-                "location": {
-                    "x": 50.5859375,
-                    "y": 62.6953125
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID1.jpg",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID2.jpg",
-                    "mapLocation": {
-                        "x": 45.60546875,
-                        "y": 17.96875
-                    }
-                }
-            },
-            {
-                "uuid": "84decbdc-50fa-4679-b48f-d74619be0dff",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 38.8671875,
-                    "y": 55.859375
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAEboks1.jpg",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAEboks2.jpg",
-                    "mapLocation": {
-                        "x": 33.59375,
-                        "y": 64.2578125
-                    }
-                }
-            },
-            {
-                "uuid": "41ab2f63-0b81-48cd-af2d-f009f2a25adf",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 71.09375,
-                    "y": 19.43359375
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAHeaven1.jpg",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAHeaven2.jpg",
-                    "mapLocation": {
-                        "x": 73.92578125,
-                        "y": 50.48828125
-                    }
-                }
-            },
-            {
-                "uuid": "9918979d-c946-4670-a59d-3fb3655b37c8",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 69.53125,
-                    "y": 32.51953125
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAPlatform1.jpg",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAPlatform2.jpg",
-                    "mapLocation": {
-                        "x": 73.92578125,
-                        "y": 50.68359375
-                    }
-                }
-            },
-            {
-                "uuid": "fbd9c5ec-455e-4c71-9d2a-97455e75c700",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 35.546875,
-                    "y": 41.2109375
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins1.jpg",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins2.jpg",
-                    "mapLocation": {
-                        "x": 29.19921875,
-                        "y": 68.5546875
-                    }
-                }
-            },
-            {
-                "uuid": "bde47c41-d9e3-4924-9ce1-7579b77b452e",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 29.39453125,
-                    "y": 41.796875
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBCT1.jpg",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBCT2.jpg",
-                    "mapLocation": {
-                        "x": 29.296875,
-                        "y": 68.84765625
-                    }
-                }
-            },
-            {
-                "uuid": "6be71a25-05b5-4031-b137-2894039a5f0d",
-                "nadeType": "Smoke",
-                "team": "T",
-                "location": {
-                    "x": 37.79296875,
-                    "y": 50.48828125
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBPlat1.jpg",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBPlat2.jpg",
-                    "mapLocation": {
-                        "x": 33.30078125,
-                        "y": 64.453125
-                    }
-                }
-            },
-            {
-                "uuid": "d77a0881-575d-4afb-a9b4-2a3e27f2e027",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 71.38671875,
-                    "y": 21.6796875
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_heaven_from_water_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_heaven_from_water_2.png",
-                    "mapLocation": {
-                        "x": 75.78125,
-                        "y": 52.5390625
-                    }
-                }
-            },
-            {
-                "uuid": "b513c458-4e6f-4978-a2ce-6d52376765a6",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 72.4609375,
-                    "y": 25.390625
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_site_from_water_barrel_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_site_from_water_barrel_2.png",
-                    "mapLocation": {
-                        "x": 66.50390625,
-                        "y": 49.609375
-                    }
-                }
-            },
-            {
-                "uuid": "db0a361a-f39e-4adf-8020-9c301f1daa74",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 29.98046875,
-                    "y": 49.70703125
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_default_fire_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_default_fire_2.png",
-                    "mapLocation": {
-                        "x": 30.37109375,
-                        "y": 31.93359375
-                    }
-                }
-            },
-            {
-                "uuid": "c1083969-f594-4ade-9258-e4011f827062",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 31.15234375,
-                    "y": 56.93359375
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_pillar_front_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_pillar_front_2.png",
-                    "mapLocation": {
-                        "x": 22.65625,
-                        "y": 63.28125
-                    }
-                }
-            },
-            {
-                "uuid": "cee6abba-ab4a-482d-9e17-1c1fff783bd3",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 41.015625,
-                    "y": 50.87890625
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/backsite_from_eboks_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/backsite_from_eboks_2.png",
-                    "mapLocation": {
-                        "x": 41.30859375,
-                        "y": 57.12890625
-                    }
-                }
-            },
-            {
-                "uuid": "2e4a712a-87a0-49d8-a017-ce135c140c94",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 72.55859375,
-                    "y": 36.5234375
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/corner_from_water_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/corner_from_water_2_jump.png",
-                    "mapLocation": {
-                        "x": 75.68359375,
-                        "y": 52.05078125
-                    }
-                }
-            },
-            {
-                "uuid": "db60af21-b5d7-436a-8007-b8b002ee36d8",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 83.3984375,
-                    "y": 26.46484375
-                },
-                "description": "Walk throw",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/fountain_from_main_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/fountain_from_main_2_walk.png",
-                    "mapLocation": {
-                        "x": 79.39453125,
-                        "y": 46.6796875
-                    }
-                }
-            },
-            {
-                "uuid": "0b65072a-d2b7-4683-a22f-6f591556c560",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 56.4453125,
-                    "y": 51.26953125
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/mid_doors_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/mid_doors_2.png",
-                    "mapLocation": {
-                        "x": 48.2421875,
-                        "y": 64.35546875
-                    }
-                }
-            },
-            {
-                "uuid": "934b9aee-e218-43d9-987d-0b621d85aa9a",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 83.3984375,
-                    "y": 26.46484375
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/pillar_from_back_heaven_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/pillar_from_back_heaven_2.png",
-                    "mapLocation": {
-                        "x": 63.37890625,
-                        "y": 25.29296875
-                    }
-                }
-            },
-            {
-                "uuid": "f123c75e-7492-4e7b-8497-782451e6aee5",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 67.3828125,
-                    "y": 30.76171875
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/plat_from_water_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/plat_from_water_2.png",
-                    "mapLocation": {
-                        "x": 72.36328125,
-                        "y": 52.63671875
-                    }
-                }
-            },
-            {
-                "uuid": "3818ea04-9780-4d54-aa46-e5e0ccd580dd",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 50.5859375,
-                    "y": 52.24609375
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/top_mid_from_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/top_mid_from_2.png",
-                    "mapLocation": {
-                        "x": 42.28515625,
-                        "y": 69.3359375
-                    }
-                }
-            },
-            {
-                "uuid": "395839ca-5890-4e6b-9e11-6470c266e8d8",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 50.5859375,
-                    "y": 52.24609375
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/top_mid_street_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/top_mid_street_2.png",
-                    "mapLocation": {
-                        "x": 55.56640625,
-                        "y": 70.8984375
-                    }
-                }
-            },
-            {
-                "uuid": "ae2606b2-2bc1-4985-8382-86c7d46cfb73",
-                "nadeType": "Fire",
-                "team": "T",
-                "location": {
-                    "x": 56.4453125,
-                    "y": 51.26953125
-                },
-                "description": "Run jump",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/window_from_ally_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/window_from_ally_2_run_jump.png",
-                    "mapLocation": {
-                        "x": 72.0703125,
-                        "y": 71.77734375
-                    }
-                }
-            },
-            {
-                "uuid": "169ae313-4d03-4545-bdb5-17e6e56cbf9f",
-                "nadeType": "Flash",
-                "team": "T",
-                "location": {
-                    "x": 83.49609375,
-                    "y": 43.06640625
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_main_from_water_flash_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_main_from_water_flash_2.png",
-                    "mapLocation": {
-                        "x": 66.6015625,
-                        "y": 52.83203125
-                    }
-                }
-            },
-            {
-                "uuid": "58dd3f01-036a-4639-b69f-551d1c57d7be",
-                "nadeType": "Flash",
-                "team": "T",
-                "location": {
-                    "x": 74.0234375,
-                    "y": 33.69140625
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_site_from_water_lily_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_site_from_water_lily_2_jump.png",
-                    "mapLocation": {
-                        "x": 68.84765625,
-                        "y": 49.70703125
-                    }
-                }
-            },
-            {
-                "uuid": "2a72aeb3-d7bd-48e8-b8ba-5d011ed34bac",
-                "nadeType": "Flash",
-                "team": "T",
-                "location": {
-                    "x": 28.3203125,
-                    "y": 54.19921875
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_from_ruins_flash_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_from_ruins_flash_2.png",
-                    "mapLocation": {
-                        "x": 32.71484375,
-                        "y": 65.91796875
-                    }
-                }
-            },
-            {
-                "uuid": "fc01abe9-65c7-4b32-8711-2dac2aa8d312",
-                "nadeType": "Flash",
-                "team": "T",
-                "location": {
-                    "x": 20.99609375,
-                    "y": 58.59375
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_long_from_ct_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_long_from_ct_2_jump.png",
-                    "mapLocation": {
-                        "x": 30.6640625,
-                        "y": 39.16015625
-                    }
-                }
-            },
-            {
-                "uuid": "8879b4fe-0233-4be1-bd1e-2a245c369d28",
-                "nadeType": "Flash",
-                "team": "T",
-                "location": {
-                    "x": 50.390625,
-                    "y": 58.3984375
-                },
-                "description": "",
-                "jumpThrow": true,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/bridge_from_conn_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/bridge_from_conn_2_jump.png",
-                    "mapLocation": {
-                        "x": 58.49609375,
-                        "y": 42.96875
-                    }
-                }
-            },
-            {
-                "uuid": "e6667b23-43f3-4a47-8c99-45df576a2da7",
-                "nadeType": "Flash",
-                "team": "T",
-                "location": {
-                    "x": 55.2734375,
-                    "y": 60.15625
-                },
-                "description": "",
-                "jumpThrow": false,
-                "lineup": {
-                    "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/canals_from_t_mid_1.png",
-                    "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/canals_from_t_mid_2.png",
-                    "mapLocation": {
-                        "x": 46.484375,
-                        "y": 67.578125
-                    }
-                }
-            }
-        ]
+  {
+    "uuid": "39ef0dd0-b2ae-4fca-937d-852dd36ab91a",
+    "nadeType": "Smoke",
+    "team": "CT",
+    "location": {
+      "x": 50.5859375,
+      "y": 62.6953125
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID1.jpg",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/CTMID2.jpg",
+      "mapLocation": {
+        "x": 45.60546875,
+        "y": 17.96875
+      }
+    }
+  },
+  {
+    "uuid": "84decbdc-50fa-4679-b48f-d74619be0dff",
+    "nadeType": "Smoke",
+    "team": "T",
+    "location": {
+      "x": 38.8671875,
+      "y": 55.859375
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAEboks1.jpg",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAEboks2.jpg",
+      "mapLocation": {
+        "x": 33.59375,
+        "y": 64.2578125
+      }
+    }
+  },
+  {
+    "uuid": "41ab2f63-0b81-48cd-af2d-f009f2a25adf",
+    "nadeType": "Smoke",
+    "team": "T",
+    "location": {
+      "x": 71.09375,
+      "y": 19.43359375
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAHeaven1.jpg",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAHeaven2.jpg",
+      "mapLocation": {
+        "x": 73.92578125,
+        "y": 50.48828125
+      }
+    }
+  },
+  {
+    "uuid": "9918979d-c946-4670-a59d-3fb3655b37c8",
+    "nadeType": "Smoke",
+    "team": "T",
+    "location": {
+      "x": 69.53125,
+      "y": 32.51953125
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAPlatform1.jpg",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TAPlatform2.jpg",
+      "mapLocation": {
+        "x": 73.92578125,
+        "y": 50.68359375
+      }
+    }
+  },
+  {
+    "uuid": "fbd9c5ec-455e-4c71-9d2a-97455e75c700",
+    "nadeType": "Smoke",
+    "team": "T",
+    "location": {
+      "x": 35.546875,
+      "y": 41.2109375
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins1.jpg",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TARuins2.jpg",
+      "mapLocation": {
+        "x": 29.19921875,
+        "y": 68.5546875
+      }
+    }
+  },
+  {
+    "uuid": "bde47c41-d9e3-4924-9ce1-7579b77b452e",
+    "nadeType": "Smoke",
+    "team": "T",
+    "location": {
+      "x": 29.39453125,
+      "y": 41.796875
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBCT1.jpg",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBCT2.jpg",
+      "mapLocation": {
+        "x": 29.296875,
+        "y": 68.84765625
+      }
+    }
+  },
+  {
+    "uuid": "6be71a25-05b5-4031-b137-2894039a5f0d",
+    "nadeType": "Smoke",
+    "team": "T",
+    "location": {
+      "x": 37.79296875,
+      "y": 50.48828125
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBPlat1.jpg",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/TBPlat2.jpg",
+      "mapLocation": {
+        "x": 33.30078125,
+        "y": 64.453125
+      }
+    }
+  },
+  {
+    "uuid": "d77a0881-575d-4afb-a9b4-2a3e27f2e027",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 71.38671875,
+      "y": 21.6796875
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_heaven_from_water_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_heaven_from_water_2.png",
+      "mapLocation": {
+        "x": 75.78125,
+        "y": 52.5390625
+      }
+    }
+  },
+  {
+    "uuid": "b513c458-4e6f-4978-a2ce-6d52376765a6",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 72.4609375,
+      "y": 25.390625
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_site_from_water_barrel_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_site_from_water_barrel_2.png",
+      "mapLocation": {
+        "x": 66.50390625,
+        "y": 49.609375
+      }
+    }
+  },
+  {
+    "uuid": "db0a361a-f39e-4adf-8020-9c301f1daa74",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 29.98046875,
+      "y": 49.70703125
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_default_fire_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_default_fire_2.png",
+      "mapLocation": {
+        "x": 30.37109375,
+        "y": 31.93359375
+      }
+    }
+  },
+  {
+    "uuid": "c1083969-f594-4ade-9258-e4011f827062",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 31.15234375,
+      "y": 56.93359375
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_pillar_front_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_pillar_front_2.png",
+      "mapLocation": {
+        "x": 22.65625,
+        "y": 63.28125
+      }
+    }
+  },
+  {
+    "uuid": "cee6abba-ab4a-482d-9e17-1c1fff783bd3",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 41.015625,
+      "y": 50.87890625
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/backsite_from_eboks_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/backsite_from_eboks_2.png",
+      "mapLocation": {
+        "x": 41.30859375,
+        "y": 57.12890625
+      }
+    }
+  },
+  {
+    "uuid": "2e4a712a-87a0-49d8-a017-ce135c140c94",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 72.55859375,
+      "y": 36.5234375
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/corner_from_water_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/corner_from_water_2_jump.png",
+      "mapLocation": {
+        "x": 75.68359375,
+        "y": 52.05078125
+      }
+    }
+  },
+  {
+    "uuid": "db60af21-b5d7-436a-8007-b8b002ee36d8",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 83.3984375,
+      "y": 26.46484375
+    },
+    "description": "Walk throw",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/fountain_from_main_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/fountain_from_main_2_walk.png",
+      "mapLocation": {
+        "x": 79.39453125,
+        "y": 46.6796875
+      }
+    }
+  },
+  {
+    "uuid": "0b65072a-d2b7-4683-a22f-6f591556c560",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 56.4453125,
+      "y": 51.26953125
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/mid_doors_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/mid_doors_2.png",
+      "mapLocation": {
+        "x": 48.2421875,
+        "y": 64.35546875
+      }
+    }
+  },
+  {
+    "uuid": "934b9aee-e218-43d9-987d-0b621d85aa9a",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 83.3984375,
+      "y": 26.46484375
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/pillar_from_back_heaven_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/pillar_from_back_heaven_2.png",
+      "mapLocation": {
+        "x": 63.37890625,
+        "y": 25.29296875
+      }
+    }
+  },
+  {
+    "uuid": "f123c75e-7492-4e7b-8497-782451e6aee5",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 67.3828125,
+      "y": 30.76171875
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/plat_from_water_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/plat_from_water_2.png",
+      "mapLocation": {
+        "x": 72.36328125,
+        "y": 52.63671875
+      }
+    }
+  },
+  {
+    "uuid": "3818ea04-9780-4d54-aa46-e5e0ccd580dd",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 50.5859375,
+      "y": 52.24609375
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/top_mid_from_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/top_mid_from_2.png",
+      "mapLocation": {
+        "x": 42.28515625,
+        "y": 69.3359375
+      }
+    }
+  },
+  {
+    "uuid": "395839ca-5890-4e6b-9e11-6470c266e8d8",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 50.5859375,
+      "y": 52.24609375
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/top_mid_street_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/top_mid_street_2.png",
+      "mapLocation": {
+        "x": 55.56640625,
+        "y": 70.8984375
+      }
+    }
+  },
+  {
+    "uuid": "ae2606b2-2bc1-4985-8382-86c7d46cfb73",
+    "nadeType": "Fire",
+    "team": "T",
+    "location": {
+      "x": 56.4453125,
+      "y": 51.26953125
+    },
+    "description": "Run jump",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/window_from_ally_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/window_from_ally_2_run_jump.png",
+      "mapLocation": {
+        "x": 72.0703125,
+        "y": 71.77734375
+      }
+    }
+  },
+  {
+    "uuid": "169ae313-4d03-4545-bdb5-17e6e56cbf9f",
+    "nadeType": "Flash",
+    "team": "T",
+    "location": {
+      "x": 83.49609375,
+      "y": 43.06640625
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_main_from_water_flash_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_main_from_water_flash_2.png",
+      "mapLocation": {
+        "x": 66.6015625,
+        "y": 52.83203125
+      }
+    }
+  },
+  {
+    "uuid": "58dd3f01-036a-4639-b69f-551d1c57d7be",
+    "nadeType": "Flash",
+    "team": "T",
+    "location": {
+      "x": 74.0234375,
+      "y": 33.69140625
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_site_from_water_lily_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/a_site_from_water_lily_2_jump.png",
+      "mapLocation": {
+        "x": 68.84765625,
+        "y": 49.70703125
+      }
+    }
+  },
+  {
+    "uuid": "2a72aeb3-d7bd-48e8-b8ba-5d011ed34bac",
+    "nadeType": "Flash",
+    "team": "T",
+    "location": {
+      "x": 28.3203125,
+      "y": 54.19921875
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_from_ruins_flash_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_from_ruins_flash_2.png",
+      "mapLocation": {
+        "x": 32.71484375,
+        "y": 65.91796875
+      }
+    }
+  },
+  {
+    "uuid": "fc01abe9-65c7-4b32-8711-2dac2aa8d312",
+    "nadeType": "Flash",
+    "team": "T",
+    "location": {
+      "x": 20.99609375,
+      "y": 58.59375
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_long_from_ct_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/b_long_from_ct_2_jump.png",
+      "mapLocation": {
+        "x": 30.6640625,
+        "y": 39.16015625
+      }
+    }
+  },
+  {
+    "uuid": "8879b4fe-0233-4be1-bd1e-2a245c369d28",
+    "nadeType": "Flash",
+    "team": "T",
+    "location": {
+      "x": 50.390625,
+      "y": 58.3984375
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/bridge_from_conn_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/bridge_from_conn_2_jump.png",
+      "mapLocation": {
+        "x": 58.49609375,
+        "y": 42.96875
+      }
+    }
+  },
+  {
+    "uuid": "e6667b23-43f3-4a47-8c99-45df576a2da7",
+    "nadeType": "Flash",
+    "team": "T",
+    "location": {
+      "x": 55.2734375,
+      "y": 60.15625
+    },
+    "description": "",
+    "jumpThrow": false,
+    "lineup": {
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/canals_from_t_mid_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/canals_from_t_mid_2.png",
+      "mapLocation": {
+        "x": 46.484375,
+        "y": 67.578125
+      }
+    }
+  },
+  {
+    "uuid": "0a322212-cb52-4908-9796-48fa9036a755",
+    "nadeType": "Smoke",
+    "team": "T",
+    "location": {
+      "x": 44.140625,
+      "y": 60.25390625
+    },
+    "description": "",
+    "jumpThrow": true,
+    "lineup": {
+      "standUrl": "ebox_t_spawn_1",
+      "throwUrl": "ebox_t_spawn__jump_2",
+      "mapLocation": {
+        "x": 45.99609375,
+        "y": 94.23828125
+      }
+    }
+  }
+]
     }
 ]
