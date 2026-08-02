@@ -597,8 +597,8 @@
     "description": "",
     "jumpThrow": true,
     "lineup": {
-      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/ebox_t_spawn_1",
-      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/ebox_t_spawn__jump_2",
+      "standUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/ebox_t_spawn_1.png",
+      "throwUrl": "https://raw.githubusercontent.com/asdf-dev/crudDump/refs/heads/main/maps/anubis/ebox_t_spawn__jump_2.png",
       "mapLocation": {
         "x": 45.99609375,
         "y": 94.23828125
